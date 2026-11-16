@@ -1,0 +1,717 @@
+review_id,product_id,rating,verified_purchase,review_date,review_text
+RV0001,ZP0001,2,True,2026-08-21,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0002,ZP0001,2,True,2026-02-18,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0003,ZP0001,1,True,2026-06-21,Disappointed. Bluetooth keeps disconnecting. Support kept transferring my call.
+RV0004,ZP0002,3,True,2026-06-20,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0005,ZP0002,5,True,2026-02-15,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0006,ZP0002,5,False,2026-02-10,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0007,ZP0003,5,True,2026-05-27,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0008,ZP0003,1,True,2026-03-11,Bass is tight and vocals are clear. Delivery was quick and packaging was sealed. Recommended.
+RV0009,ZP0003,4,True,2026-02-22,Using the WH-1000XM6 for 3 months now. Fit is comfortable for long sessions. Totally worth the money.
+RV0010,ZP0003,2,True,2026-03-05,Battery drains faster than claimed. Build feels cheap for this price.
+RV0011,ZP0003,4,False,2026-05-07,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0012,ZP0004,5,False,2026-10-08,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0013,ZP0004,4,True,2026-02-06,Bought this during the sale. Bass is tight and vocals are clear. Battery backup is genuinely good.
+RV0014,ZP0004,5,True,2026-01-17,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0015,ZP0004,3,True,2026-08-01,Not as advertised. Bluetooth keeps disconnecting. Returning it.
+RV0016,ZP0005,5,True,2026-04-02,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0017,ZP0005,1,True,2026-03-03,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0018,ZP0005,2,True,2026-01-18,Disappointed. Bluetooth keeps disconnecting. Support kept transferring my call.
+RV0019,ZP0005,3,True,2026-10-11,Sound quality and build are premium. Bass is tight and vocals are clear. No complaints so far.
+RV0020,ZP0005,4,False,2026-05-10,Using the QuietComfort Ultra for 9 months now. Battery easily lasts a week of commuting. Totally worth the money.
+RV0021,ZP0006,2,True,2026-09-10,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0022,ZP0006,5,True,2026-04-06,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0023,ZP0007,1,True,2026-08-15,Battery easily lasts a week of commuting. Delivery was quick and packaging was sealed. Recommended.
+RV0024,ZP0007,3,True,2026-07-13,Disappointed. Bluetooth keeps disconnecting. Support kept transferring my call.
+RV0025,ZP0007,4,True,2026-04-15,Bought this during the sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0026,ZP0008,5,True,2026-05-04,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0027,ZP0008,1,True,2026-01-06,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0028,ZP0008,1,True,2026-09-06,Sound quality and build are premium. Fit is comfortable for long sessions. No complaints so far.
+RV0029,ZP0008,3,True,2026-08-24,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0030,ZP0009,1,False,2026-02-16,Left earbud stopped charging after two weeks. Build feels cheap for this price.
+RV0031,ZP0009,2,True,2026-05-23,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0032,ZP0009,4,True,2026-02-28,Sound quality and build are premium. Noise cancellation is excellent. No complaints so far.
+RV0033,ZP0010,1,True,2026-07-28,Battery drains faster than claimed. The box was already opened when it arrived.
+RV0034,ZP0010,5,True,2026-10-16,Sound quality and build are premium. Bass is tight and vocals are clear. No complaints so far.
+RV0035,ZP0010,5,True,2026-05-25,Fit is comfortable for long sessions. Delivery was quick and packaging was sealed. Recommended.
+RV0036,ZP0011,5,False,2026-09-08,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0037,ZP0011,1,True,2026-09-28,Bass is tight and vocals are clear. Delivery was quick and packaging was sealed. Recommended.
+RV0038,ZP0011,4,True,2026-06-20,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0039,ZP0011,2,True,2026-10-08,Bought this during the sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0040,ZP0012,1,True,2026-01-16,Disappointed. ANC hisses in quiet rooms. Support kept transferring my call.
+RV0041,ZP0012,1,True,2026-02-12,Battery easily lasts a week of commuting. Delivery was quick and packaging was sealed. Recommended.
+RV0042,ZP0012,3,False,2026-01-07,Battery drains faster than claimed. Raised a replacement request on day 3.
+RV0043,ZP0012,3,False,2026-02-15,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0044,ZP0012,4,False,2026-05-16,Bass is tight and vocals are clear. Delivery was quick and packaging was sealed. Recommended.
+RV0045,ZP0013,2,True,2026-08-26,Fit is comfortable for long sessions. Delivery was quick and packaging was sealed. Recommended.
+RV0046,ZP0013,2,True,2026-07-22,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0047,ZP0014,4,False,2026-07-03,Using the Major V for 6 months now. Noise cancellation is excellent. Totally worth the money.
+RV0048,ZP0014,5,True,2026-10-04,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0049,ZP0014,4,True,2026-03-21,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0050,ZP0015,5,False,2026-08-06,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0051,ZP0015,4,True,2026-07-19,Sound quality and build are premium. Bass is tight and vocals are clear. No complaints so far.
+RV0052,ZP0015,5,True,2026-02-19,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0053,ZP0016,2,True,2026-06-06,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0054,ZP0016,1,False,2026-03-02,Not as advertised. ANC hisses in quiet rooms. Returning it.
+RV0055,ZP0016,5,True,2026-01-09,Bought this during the sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0056,ZP0017,1,True,2026-09-04,Disappointed. Battery drains faster than claimed. Support kept transferring my call.
+RV0057,ZP0017,5,False,2026-01-21,Fit is comfortable for long sessions. Delivery was quick and packaging was sealed. Recommended.
+RV0058,ZP0017,1,True,2026-09-13,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0059,ZP0018,4,False,2026-04-21,Using the WF-1000XM5 for 9 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0060,ZP0018,2,True,2026-10-19,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0061,ZP0018,3,False,2026-10-16,Using the WF-1000XM5 for 1 months now. Noise cancellation is excellent. Totally worth the money.
+RV0062,ZP0018,4,True,2026-02-08,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0063,ZP0019,2,False,2026-08-24,Not as advertised. Left earbud stopped charging after two weeks. Returning it.
+RV0064,ZP0019,3,True,2026-01-24,Using teh WF-C700N for 9 months now. Battery easily lasts a week of commuting. Totally worth the money.
+RV0065,ZP0019,2,True,2026-05-22,Bluetooth keeps disconnecting. The box was already opened when it arrived.
+RV0066,ZP0019,1,True,2026-09-24,Left earbud stopped charging after two weeks. Build feels cheap for this price.
+RV0067,ZP0019,1,True,2026-04-28,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0068,ZP0020,4,False,2026-05-24,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0069,ZP0020,5,True,2026-10-22,Bought this during the sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0070,ZP0020,1,True,2026-03-26,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0071,ZP0020,4,False,2026-01-27,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0072,ZP0021,5,True,2026-05-16,Mast product hai! Noise cancellation is excellent. Paise vasool.
+RV0073,ZP0021,4,False,2026-10-24,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0074,ZP0021,5,True,2026-01-24,Using the Galaxy Buds FE for 3 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0075,ZP0021,1,True,2026-06-05,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0076,ZP0022,2,True,2026-01-13,Mast product hai! Bass is tight and vocals are clear. Paise vasool.
+RV0077,ZP0022,1,False,2026-05-08,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0078,ZP0022,1,True,2026-09-13,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0079,ZP0023,1,True,2026-06-25,Battery drains faster than claimed. The box was already opened when it arrived.
+RV0080,ZP0023,5,True,2026-04-09,Mast product hai! Bass is tight and vocals are clear. Paise vasool.
+RV0081,ZP0023,5,True,2026-10-16,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0082,ZP0023,1,True,2026-01-05,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0083,ZP0024,1,True,2026-10-13,Left earbud stopped charging after two weeks. Raised a replacement request on day 3.
+RV0084,ZP0024,3,True,2026-10-23,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0085,ZP0024,2,True,2026-01-11,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0086,ZP0024,5,True,2026-05-10,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0087,ZP0024,1,False,2026-06-19,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0088,ZP0025,3,True,2026-02-02,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0089,ZP0025,2,True,2026-01-17,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0090,ZP0025,5,True,2026-04-17,Bass is tight and vocals are clear. Delivery was quick and packaging was sealed. Recommended.
+RV0091,ZP0025,4,True,2026-03-13,Working flawlessly for daily use. Fit is comfortable for long sessions.
+RV0092,ZP0025,1,True,2026-04-03,Using the Buds VS104 for 9 months now. Fit is comfortable for long sessions. Totally worth the money.
+RV0093,ZP0026,4,True,2026-04-12,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0094,ZP0026,5,True,2026-01-28,Mast product hai! Bass is tight and vocals are clear. Paise vasool.
+RV0095,ZP0026,5,True,2026-10-04,Using the Buds Xero for 2 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0096,ZP0026,1,False,2026-07-04,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0097,ZP0026,1,True,2026-03-20,Not as advertised. Left earbud stopped charging after two weeks. Returning it.
+RV0098,ZP0027,2,True,2026-02-25,Battery drains faster than claimed. Raised a replacement request on day 3.
+RV0099,ZP0027,1,True,2026-07-19,Not as advertised. Bluetooth keeps disconnecting. Returning it.
+RV0100,ZP0027,4,True,2026-09-25,Sound quality and build are premium. Noise cancellation is excellent. No complaints so far.
+RV0101,ZP0027,3,True,2026-04-28,Battery easily lasts a week of commuting. Delivery was quick and packaging was sealed. Recommended.
+RV0102,ZP0028,3,False,2026-06-03,Not as advertised. Left earbud stopped charging after two weeks. Returning it.
+RV0103,ZP0028,2,True,2026-06-02,Bekaar experience. Left earbud stopped charging after two weeks.
+RV0104,ZP0028,3,True,2026-08-06,Bluetooth keeps disconnecting. Build feels cheap for this price.
+RV0105,ZP0028,3,False,2026-06-09,Bekaar experience. Battery drains faster than claimed.
+RV0106,ZP0029,2,True,2026-07-23,ANC hisses in quiet rooms. The box was already opened when it arrived.
+RV0107,ZP0029,4,False,2026-10-19,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0108,ZP0029,5,False,2026-09-15,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0109,ZP0030,4,True,2026-10-28,Using teh Live Pro 2 for 1 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0110,ZP0030,3,True,2026-03-24,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0111,ZP0030,2,True,2026-07-05,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0112,ZP0031,2,True,2026-08-05,Not as advertised. Bluetooth keeps disconnecting. Returning it.
+RV0113,ZP0031,2,True,2026-06-08,Bekaar experience. Bluetooth keeps disconnecting.
+RV0114,ZP0031,5,True,2026-03-18,Sound quality and build are premium. Noise cancellation is excellent. No complaints so far.
+RV0115,ZP0031,4,True,2026-05-14,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0116,ZP0031,4,True,2026-10-10,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0117,ZP0032,3,True,2026-05-15,Battery easily lasts a week of commuting. Delivery was quick and packaging was sealed. Recommended.
+RV0118,ZP0032,5,True,2026-05-13,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0119,ZP0032,4,True,2026-01-08,Bought this during the sale. Bass is tight and vocals are clear. Battery backup is genuinely good.
+RV0120,ZP0032,3,True,2026-04-10,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0121,ZP0032,3,True,2026-05-26,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0122,ZP0033,2,True,2026-01-28,Battery drains faster than claimed. Raised a replacement request on day 3.
+RV0123,ZP0033,1,True,2026-07-24,Using the Ear (2) for 6 months now. Fit is comfortable for long sessions. Totally worth the money.
+RV0124,ZP0033,4,True,2026-09-06,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0125,ZP0034,1,True,2026-02-26,Left earbud stopped charging after two weeks. The box was already opened when it arrived.
+RV0126,ZP0034,2,True,2026-08-16,Using the Enco Air 4 Pro for 3 months now. Fit is comfortable for long sessions. Totally worth the money.
+RV0127,ZP0034,1,True,2026-08-15,Not as advertised. Left earbud stopped charging after two weeks. Returning it.
+RV0128,ZP0035,2,False,2026-09-14,Bekaar experience. Left earbud stopped charging after two weeks.
+RV0129,ZP0035,1,True,2026-05-28,Battery drains faster than claimed. Build feels cheap for this price.
+RV0130,ZP0035,1,True,2026-02-08,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0131,ZP0036,1,True,2026-04-19,Working flawlessly for daily use. Bass is tight and vocals are clear.
+RV0132,ZP0036,4,True,2026-05-08,Working flawlessly for daily use. Fit is comfortable for long sessions.
+RV0133,ZP0036,2,False,2026-02-13,Bought this during the sale. Bass is tight and vocals are clear. Battery backup is genuinely good.
+RV0134,ZP0037,2,True,2026-02-06,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0135,ZP0037,3,True,2026-01-08,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0136,ZP0037,5,True,2026-04-01,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0137,ZP0038,2,True,2026-03-24,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0138,ZP0038,2,True,2026-03-20,Mast product hai! Battery lasts a full working day. Paise vasool.
+RV0139,ZP0038,4,True,2026-08-15,Working flawlessly for daily use. Charging is fast.
+RV0140,ZP0039,1,False,2026-01-08,Using the iPhone 15 for 6 months now. Charging is fast. Totally worth the money.
+RV0141,ZP0039,4,False,2026-06-14,Bought this during the sale. Charging is fast. Battery backup is genuinely good.
+RV0142,ZP0040,2,True,2026-05-11,Mast product hai! Camera handles low light well. Paise vasool.
+RV0143,ZP0040,3,True,2026-07-28,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0144,ZP0040,2,True,2026-02-23,Heating near the camera module. Raised a replacement request on day 3.
+RV0145,ZP0041,3,True,2026-05-28,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0146,ZP0041,1,True,2026-04-15,Bought this during the sale. Charging is fast. Battery backup is genuinely good.
+RV0147,ZP0041,2,True,2026-04-14,Mast product hai! Camera handles low light well. Paise vasool.
+RV0148,ZP0041,5,True,2026-10-21,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0149,ZP0042,5,True,2026-06-23,Bought this during teh sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0150,ZP0042,1,True,2026-04-01,Disappointed. Heating near the camera module. Support kept transferring my call.
+RV0151,ZP0043,1,False,2026-07-04,Not as advertised. Heating near the camera module. Returning it.
+RV0152,ZP0043,5,True,2026-09-13,Using the Galaxy S23 FE for 2 months now. Camera handles low light well. Totally worth the money.
+RV0153,ZP0043,2,True,2026-01-12,Bekaar experience. Heating near the camera module.
+RV0154,ZP0043,5,True,2026-08-25,Sound quality and build are premium. Display is bright even outdoors. No complaints so far.
+RV0155,ZP0043,5,True,2026-03-08,Sound quality and build are premium. Display is bright even outdoors. No complaints so far.
+RV0156,ZP0044,3,True,2026-01-05,Not as advertised. Battery drops 20% overnight. Returning it.
+RV0157,ZP0044,4,True,2026-03-03,Working flawlessly for daily use. Display is bright even outdoors.
+RV0158,ZP0044,5,True,2026-05-18,Sound quality and build are premium. Display is bright even outdoors. No complaints so far.
+RV0159,ZP0045,4,True,2026-05-07,Mast product hai! Camera handles low light well. Paise vasool.
+RV0160,ZP0045,2,False,2026-08-19,Battery drops 20% overnight. Build feels cheap for this price.
+RV0161,ZP0045,2,True,2026-06-18,Bekaar experience. Battery drops 20% overnight.
+RV0162,ZP0046,5,True,2026-03-21,Sound quality and build are premium. Battery lasts a full working day. No complaints so far.
+RV0163,ZP0046,2,True,2026-08-18,Disappointed. Ads in the UI are annoying. Support kept transferring my call.
+RV0164,ZP0047,1,False,2026-08-15,Battery drops 20% overnight. Raised a replacement request on day 3.
+RV0165,ZP0047,3,False,2026-09-12,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0166,ZP0047,4,True,2026-02-07,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0167,ZP0048,2,True,2026-02-14,Working flawlessly for daily use. Camera handles low light well.
+RV0168,ZP0048,4,False,2026-09-04,Bought this during the sale. Display is bright even outdoors. Battery backup is genuinely good.
+RV0169,ZP0048,5,True,2026-06-17,Bought this during the sale. Display is bright even outdoors. Battery backup is genuinely good.
+RV0170,ZP0049,5,True,2026-03-11,Working flawlessly for daily use. Camera handles low light well.
+RV0171,ZP0049,3,False,2026-09-26,Mast product hai! Camera handles low light well. Paise vasool.
+RV0172,ZP0049,1,False,2026-06-12,Sound quality and build are premium. Display is bright even outdoors. No complaints so far.
+RV0173,ZP0050,2,True,2026-04-20,Heating near the camera module. Raised a replacement request on day 3.
+RV0174,ZP0050,5,False,2026-08-08,Sound quality and build are premium. Charging is fast. No complaints so far.
+RV0175,ZP0050,5,True,2026-07-04,Using the Pixel 9 for 2 months now. Camera handles low light well. Totally worth the money.
+RV0176,ZP0051,1,True,2026-09-14,Not as advertised. Heating near the camera module. Returning it.
+RV0177,ZP0051,3,True,2026-02-02,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0178,ZP0052,4,True,2026-02-24,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0179,ZP0052,4,False,2026-10-28,Using the Xiaomi 14 for 6 months now. Battery lasts a full working day. Totally worth the money.
+RV0180,ZP0052,4,False,2026-03-06,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0181,ZP0052,4,True,2026-02-11,Working flawlessly for daily use. Camera handles low light well.
+RV0182,ZP0053,1,True,2026-05-21,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0183,ZP0053,5,True,2026-07-23,Sound quality and build are premium. Battery lasts a full working day. No complaints so far.
+RV0184,ZP0053,2,True,2026-01-11,Not as advertised. Heating near the camera module. Returning it.
+RV0185,ZP0053,1,True,2026-09-04,Heating near the camera module. The box was already opened when it arrived.
+RV0186,ZP0053,1,False,2026-10-20,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0187,ZP0054,4,True,2026-08-14,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0188,ZP0054,1,True,2026-07-03,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0189,ZP0054,4,True,2026-05-06,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0190,ZP0055,2,True,2026-03-23,Bekaar experience. Heating near the camera module.
+RV0191,ZP0055,3,True,2026-05-12,Working flawlessly for daily use. Charging is fast.
+RV0192,ZP0055,2,True,2026-09-28,Bought this during the sale. Camera handles low light well. Battery backup is genuinely good.
+RV0193,ZP0056,4,False,2026-02-16,Sound quality and build are premium. Charging is fast. No complaints so far.
+RV0194,ZP0056,5,False,2026-10-26,Bought this during the sale. Charging is fast. Battery backup is genuinely good.
+RV0195,ZP0056,1,True,2026-05-19,Bekaar experience. Ads in the UI are annoying.
+RV0196,ZP0057,4,True,2026-02-26,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0197,ZP0057,2,True,2026-08-11,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0198,ZP0057,1,True,2026-05-18,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0199,ZP0057,2,False,2026-05-09,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0200,ZP0057,2,False,2026-06-04,Not as advertised. Heating near teh camera module. Returning it.
+RV0201,ZP0058,5,False,2026-07-15,Working flawlessly for daily use. Battery lasts a full working day.
+RV0202,ZP0058,2,True,2026-05-25,Heating near the camera module. Build feels cheap for this price.
+RV0203,ZP0058,1,True,2026-03-11,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0204,ZP0059,1,True,2026-09-18,Disappointed. Ads in the UI are annoying. Support kept transferring my call.
+RV0205,ZP0059,2,False,2026-10-27,Sound quality and build are premium. Battery lasts a full working day. No complaints so far.
+RV0206,ZP0059,2,True,2026-08-27,Battery drops 20% overnight. Raised a replacement request on day 3.
+RV0207,ZP0060,5,True,2026-05-23,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0208,ZP0060,1,False,2026-06-09,Heating near the camera module. Raised a replacement request on day 3.
+RV0209,ZP0060,3,False,2026-09-28,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0210,ZP0060,2,False,2026-05-14,Using the Reno 12 Pro for 1 months now. Display is bright even outdoors. Totally worth the money.
+RV0211,ZP0061,2,True,2026-10-06,Display has a green tint. Raised a replacement request on day 3.
+RV0212,ZP0061,4,True,2026-03-06,Camera handles low light well. Delivery was quick and packaging was sealed. Recommended.
+RV0213,ZP0062,4,True,2026-07-09,Sound quality and build are premium. Boots in seconds. No complaints so far.
+RV0214,ZP0062,1,True,2026-02-08,Battery lasts barely 3 hours. Build feels cheap for this price.
+RV0215,ZP0062,3,True,2026-10-02,Screen has backlight bleeding. Raised a replacement request on day 3.
+RV0216,ZP0063,2,True,2026-07-21,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0217,ZP0063,3,True,2026-04-14,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0218,ZP0063,4,False,2026-03-20,Working flawlessly for daily use. Screen colours are accurate.
+RV0219,ZP0063,2,True,2026-02-26,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0220,ZP0063,4,True,2026-02-22,Using teh MacBook Pro 14 M3 Pro for 3 months now. Keyboard is great for typing all day. Totally worth the money.
+RV0221,ZP0064,3,True,2026-08-13,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0222,ZP0064,1,True,2026-10-23,Mast product hai! Boots in seconds. Paise vasool.
+RV0223,ZP0065,1,True,2026-09-12,Working flawlessly for daily use. Boots in seconds.
+RV0224,ZP0065,1,True,2026-07-17,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0225,ZP0065,1,True,2026-07-18,Bought this during teh sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0226,ZP0066,4,True,2026-04-09,Using the Latitude 5440 for 1 months now. Fans stay quiet under load. Totally worth the money.
+RV0227,ZP0066,5,True,2026-10-20,Sound quality and build are premium. Keyboard is great for typing all day. No complaints so far.
+RV0228,ZP0066,1,True,2026-05-02,Screen has backlight bleeding. Build feels cheap for this price.
+RV0229,ZP0067,1,True,2026-05-02,Bekaar experience. Screen has backlight bleeding.
+RV0230,ZP0067,2,False,2026-08-04,Using the Pavilion 15 for 9 months now. Boots in seconds. Totally worth the money.
+RV0231,ZP0067,3,True,2026-06-17,Using the Pavilion 15 for 1 months now. Boots in seconds. Totally worth the money.
+RV0232,ZP0068,5,True,2026-08-18,Working flawlessly for daily use. Screen colours are accurate.
+RV0233,ZP0068,2,True,2026-09-03,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0234,ZP0068,2,True,2026-02-01,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0235,ZP0069,2,True,2026-07-14,Sound quality and build are premium. Boots in seconds. No complaints so far.
+RV0236,ZP0069,5,True,2026-08-13,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0237,ZP0069,4,True,2026-04-06,Sound quality and build are premium. Screen colours are accurate. No complaints so far.
+RV0238,ZP0070,1,True,2026-09-03,Not as advertised. Battery lasts barely 3 hours. Returning it.
+RV0239,ZP0070,2,True,2026-03-20,Working flawlessly for daily use. Fans stay quiet under load.
+RV0240,ZP0070,5,True,2026-08-16,Using the ThinkPad X1 Carbon Gen 12 for 6 months now. Boots in seconds. Totally worth the money.
+RV0241,ZP0071,2,False,2026-01-14,Using the IdeaPad Slim 5 for 3 months now. Boots in seconds. Totally worth the money.
+RV0242,ZP0071,3,True,2026-01-20,Using the IdeaPad Slim 5 for 9 months now. Screen colours are accurate. Totally worth the money.
+RV0243,ZP0072,2,True,2026-09-06,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0244,ZP0072,4,True,2026-01-09,Mast product hai! Keyboard is great for typing all day. Paise vasool.
+RV0245,ZP0072,3,True,2026-10-05,Bought this during the sale. Fans stay quiet under load. Battery backup is genuinely good.
+RV0246,ZP0072,3,True,2026-06-09,Mast product hai! Fans stay quiet under load. Paise vasool.
+RV0247,ZP0072,5,True,2026-02-02,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0248,ZP0073,4,False,2026-10-10,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0249,ZP0073,1,True,2026-09-23,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0250,ZP0073,1,False,2026-03-07,Not as advertised. Wi-Fi card keeps dropping. Returning it.
+RV0251,ZP0073,4,True,2026-07-15,Bought this during the sale. Keyboard is great for typing all day. Battery backup is genuinely good.
+RV0252,ZP0073,3,False,2026-02-18,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0253,ZP0074,5,True,2026-09-08,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0254,ZP0074,5,True,2026-03-22,Bought this during the sale. Boots in seconds. Battery backup is genuinely good.
+RV0255,ZP0074,1,True,2026-07-08,Disappointed. Screen has backlight bleeding. Support kept transferring my call.
+RV0256,ZP0075,3,True,2026-01-14,Bought this during the sale. Boots in seconds. Battery backup is genuinely good.
+RV0257,ZP0075,4,True,2026-05-15,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0258,ZP0075,1,True,2026-05-07,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0259,ZP0076,4,True,2026-05-01,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0260,ZP0076,3,True,2026-02-05,Mast product hai! Keyboard is great for typing all day. Paise vasool.
+RV0261,ZP0077,3,True,2026-03-27,Bought this during the sale. Boots in seconds. Battery backup is genuinely good.
+RV0262,ZP0077,4,True,2026-07-05,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0263,ZP0077,3,False,2026-04-01,Disappointed. Battery lasts barely 3 hours. Support kept transferring my call.
+RV0264,ZP0078,5,True,2026-09-07,Working flawlessly for daily use. Boots in seconds.
+RV0265,ZP0078,3,True,2026-02-26,Sound quality and build are premium. Keyboard is great for typing all day. No complaints so far.
+RV0266,ZP0078,2,True,2026-01-20,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0267,ZP0078,4,True,2026-08-21,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0268,ZP0079,1,True,2026-08-08,Bekaar experience. Screen has backlight bleeding.
+RV0269,ZP0079,4,True,2026-02-03,Sound quality and build are premium. Boots in seconds. No complaints so far.
+RV0270,ZP0079,1,True,2026-08-16,Fan noise is loud under load. Build feels cheap for this price.
+RV0271,ZP0080,3,False,2026-07-24,Mast product hai! Boots in seconds. Paise vasool.
+RV0272,ZP0080,2,True,2026-08-26,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0273,ZP0081,3,True,2026-05-12,Fan noise is loud under load. Raised a replacement request on day 3.
+RV0274,ZP0081,1,True,2026-06-28,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0275,ZP0082,2,True,2026-09-25,Fan noise is loud under load. Raised a replacement request on day 3.
+RV0276,ZP0082,4,True,2026-06-15,Bought this during the sale. Fans stay quiet under load. Battery backup is genuinely good.
+RV0277,ZP0082,1,False,2026-09-03,Disappointed. Fan noise is loud under load. Support kept transferring my call.
+RV0278,ZP0083,4,True,2026-07-16,Keyboard is great for typing all day. Delivery was quick and packaging was sealed. Recommended.
+RV0279,ZP0083,4,True,2026-08-08,Working flawlessly for daily use. Fans stay quiet under load.
+RV0280,ZP0083,2,True,2026-09-13,Using the RedmiBook Pro 15 for 1 months now. Fans stay quiet under load. Totally worth the money.
+RV0281,ZP0084,3,True,2026-05-23,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0282,ZP0084,2,True,2026-09-18,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0283,ZP0084,5,True,2026-07-01,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0284,ZP0085,5,True,2026-02-02,Sound quality and build are premium. Battery lasts a full working day. No complaints so far.
+RV0285,ZP0085,1,True,2026-04-12,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0286,ZP0086,4,True,2026-07-12,Working flawlessly for daily use. Camera handles low light well.
+RV0287,ZP0086,3,True,2026-01-09,Disappointed. Heating near the camera module. Support kept transferring my call.
+RV0288,ZP0086,2,True,2026-02-10,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0289,ZP0086,4,True,2026-07-05,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0290,ZP0086,1,True,2026-09-19,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0291,ZP0087,4,True,2026-10-02,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0292,ZP0087,5,True,2026-01-19,Mast product hai! Battery lasts a full working day. Paise vasool.
+RV0293,ZP0087,4,True,2026-01-07,Working flawlessly for daily use. Camera handles low light well.
+RV0294,ZP0087,4,False,2026-09-23,Using the Galaxy Watch6 for 3 months now. Battery lasts a full working day. Totally worth the money.
+RV0295,ZP0088,4,True,2026-07-01,Bought this during the sale. Charging is fast. Battery backup is genuinely good.
+RV0296,ZP0088,2,True,2026-04-14,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0297,ZP0088,1,True,2026-02-24,Camera handles low light well. Delivery was quick and packaging was sealed. Recommended.
+RV0298,ZP0088,3,True,2026-07-15,Mast product hai! Camera handles low light well. Paise vasool.
+RV0299,ZP0088,5,True,2026-09-09,Mast product hai! Battery lasts a full working day. Paise vasool.
+RV0300,ZP0089,4,True,2026-09-02,Mast product hai! Charging is fast. Paise vasool.
+RV0301,ZP0089,5,True,2026-07-10,Bought this during the sale. Camera handles low light well. Battery backup is genuinely good.
+RV0302,ZP0089,2,True,2026-07-09,Ads in teh UI are annoying. Build feels cheap for this price.
+RV0303,ZP0089,4,True,2026-01-17,Using the Galaxy Fit3 for 2 months now. Display is bright even outdoors. Totally worth the money.
+RV0304,ZP0090,5,False,2026-10-28,Using the ColorFit Pro 5 for 6 months now. Charging is fast. Totally worth the money.
+RV0305,ZP0090,1,False,2026-04-02,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0306,ZP0090,5,True,2026-07-04,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0307,ZP0091,1,True,2026-01-01,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0308,ZP0091,5,True,2026-01-26,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0309,ZP0091,5,False,2026-01-15,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0310,ZP0091,1,False,2026-04-13,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0311,ZP0092,1,True,2026-10-21,Battery drops 20% overnight. Raised a replacement request on day 3.
+RV0312,ZP0092,4,True,2026-01-07,Sound quality and build are premium. Display is bright even outdoors. No complaints so far.
+RV0313,ZP0093,4,True,2026-06-13,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0314,ZP0093,5,True,2026-09-22,Mast product hai! Camera handles low light well. Paise vasool.
+RV0315,ZP0094,1,True,2026-06-07,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0316,ZP0094,1,True,2026-04-15,Heating near the camera module. Raised a replacement request on day 3.
+RV0317,ZP0094,4,True,2026-04-19,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0318,ZP0094,4,True,2026-02-27,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0319,ZP0095,4,True,2026-01-03,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0320,ZP0095,2,True,2026-09-08,Sound quality and build are premium. Charging is fast. No complaints so far.
+RV0321,ZP0096,3,True,2026-10-06,Camera handles low light well. Delivery was quick and packaging was sealed. Recommended.
+RV0322,ZP0096,1,True,2026-06-09,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0323,ZP0097,2,True,2026-03-18,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0324,ZP0097,1,True,2026-09-17,Working flawlessly for daily use. Charging is fast.
+RV0325,ZP0097,5,True,2026-10-13,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0326,ZP0098,4,True,2026-05-22,Using the Phoenix Ultra for 1 months now. Charging is fast. Totally worth the money.
+RV0327,ZP0098,4,True,2026-08-01,Working flawlessly for daily use. Display is bright even outdoors.
+RV0328,ZP0098,4,True,2026-02-11,Mast product hai! Charging is fast. Paise vasool.
+RV0329,ZP0098,3,True,2026-08-23,Heating near the camera module. Build feels cheap for this price.
+RV0330,ZP0098,1,True,2026-06-11,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0331,ZP0099,4,True,2026-08-10,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0332,ZP0099,4,True,2026-09-13,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0333,ZP0099,1,True,2026-09-05,Working flawlessly for daily use. Charging is fast.
+RV0334,ZP0100,5,True,2026-02-17,Working flawlessly for daily use. Autofocus is very fast.
+RV0335,ZP0100,4,True,2026-02-09,Bought this during the sale. Autofocus is very fast. Battery backup is genuinely good.
+RV0336,ZP0100,5,True,2026-06-27,Autofocus is very fast. Delivery was quick and packaging was sealed. Recommended.
+RV0337,ZP0100,3,True,2026-03-07,Sound quality and build are premium. Images are sharp at high ISO. No complaints so far.
+RV0338,ZP0100,1,True,2026-10-20,Bekaar experience. Kit lens is soft at the edges.
+RV0339,ZP0101,1,True,2026-07-13,Using the EOS R6 Mark II for 2 months now. Battery lasts a full shoot. Totally worth the money.
+RV0340,ZP0101,2,True,2026-06-20,Working flawlessly for daily use. Autofocus is very fast.
+RV0341,ZP0102,2,False,2026-04-28,Sound quality and build are premium. Autofocus is very fast. No complaints so far.
+RV0342,ZP0102,3,True,2026-08-04,Not as advertised. Autofocus hunts in low light. Returning it.
+RV0343,ZP0102,5,True,2026-10-24,Using the EOS 1500D for 2 months now. Autofocus is very fast. Totally worth the money.
+RV0344,ZP0103,2,True,2026-07-13,Autofocus is very fast. Delivery was quick and packaging was sealed. Recommended.
+RV0345,ZP0103,1,False,2026-10-20,Mast product hai! Autofocus is very fast. Paise vasool.
+RV0346,ZP0104,2,False,2026-01-27,Disappointed. Autofocus hunts in low light. Support kept transferring my call.
+RV0347,ZP0104,5,False,2026-06-08,Battery lasts a full shoot. Delivery was quick and packaging was sealed. Recommended.
+RV0348,ZP0104,2,True,2026-04-24,Mast product hai! Battery lasts a full shoot. Paise vasool.
+RV0349,ZP0105,3,True,2026-06-09,Mast product hai! Battery lasts a full shoot. Paise vasool.
+RV0350,ZP0105,2,True,2026-01-16,Mast product hai! Images are sharp at high ISO. Paise vasool.
+RV0351,ZP0105,3,True,2026-01-15,Bought this during the sale. Images are sharp at high ISO. Battery backup is genuinely good.
+RV0352,ZP0105,1,True,2026-10-20,Overheats during 4K recording. The box was already opened when it arrived.
+RV0353,ZP0105,1,False,2026-01-06,Working flawlessly for daily use. Battery lasts a full shoot.
+RV0354,ZP0106,3,True,2026-01-02,Not as advertised. Autofocus hunts in low light. Returning it.
+RV0355,ZP0106,3,True,2026-05-16,Working flawlessly for daily use. Autofocus is very fast.
+RV0356,ZP0106,4,True,2026-07-19,Using the Alpha A6700 for 9 months now. Battery lasts a full shoot. Totally worth the money.
+RV0357,ZP0106,5,False,2026-01-21,Bought this during the sale. Autofocus is very fast. Battery backup is genuinely good.
+RV0358,ZP0106,3,True,2026-06-22,Autofocus hunts in low light. The box was already opened when it arrived.
+RV0359,ZP0107,3,True,2026-09-07,Autofocus hunts in low light. Build feels cheap for this price.
+RV0360,ZP0107,5,True,2026-02-15,Mast product hai! Images are sharp at high ISO. Paise vasool.
+RV0361,ZP0107,1,True,2026-08-07,Overheats during 4K recording. The box was already opened when it arrived.
+RV0362,ZP0108,1,True,2026-02-09,Overheats during 4K recording. Raised a replacement request on day 3.
+RV0363,ZP0108,3,True,2026-09-01,Not as advertised. Autofocus hunts in low light. Returning it.
+RV0364,ZP0108,2,True,2026-10-28,Autofocus hunts in low light. The box was already opened when it arrived.
+RV0365,ZP0108,4,False,2026-10-21,Mast product hai! Autofocus is very fast. Paise vasool.
+RV0366,ZP0108,1,True,2026-02-01,Kit lens is soft at the edges. Build feels cheap for this price.
+RV0367,ZP0109,5,True,2026-02-28,Working flawlessly for daily use. Battery lasts a full shoot.
+RV0368,ZP0109,3,False,2026-01-17,Bought this during the sale. Images are sharp at high ISO. Battery backup is genuinely good.
+RV0369,ZP0109,1,True,2026-08-23,Disappointed. Autofocus hunts in low light. Support kept transferring my call.
+RV0370,ZP0109,4,True,2026-02-19,Using the X-T5 for 2 months now. Images are sharp at high ISO. Totally worth the money.
+RV0371,ZP0109,2,True,2026-09-06,Working flawlessly for daily use. Autofocus is very fast.
+RV0372,ZP0110,4,True,2026-02-11,Bought this during the sale. Images are sharp at high ISO. Battery backup is genuinely good.
+RV0373,ZP0110,5,True,2026-02-26,Mast product hai! Images are sharp at high ISO. Paise vasool.
+RV0374,ZP0110,1,True,2026-07-17,Using the X-S20 for 9 months now. Images are sharp at high ISO. Totally worth the money.
+RV0375,ZP0111,2,True,2026-08-14,Autofocus is very fast. Delivery was quick and packaging was sealed. Recommended.
+RV0376,ZP0111,4,True,2026-07-16,Working flawlessly for daily use. Autofocus is very fast.
+RV0377,ZP0111,1,True,2026-06-06,Overheats during 4K recording. Raised a replacement request on day 3.
+RV0378,ZP0111,2,True,2026-01-19,Autofocus hunts in low light. Raised a replacement request on day 3.
+RV0379,ZP0111,1,False,2026-09-27,Kit lens is soft at the edges. Build feels cheap for this price.
+RV0380,ZP0112,1,True,2026-05-20,Working flawlessly for daily use. Battery lasts a full shoot.
+RV0381,ZP0112,4,True,2026-07-02,Using the Hero 12 Black for 9 months now. Autofocus is very fast. Totally worth the money.
+RV0382,ZP0112,1,False,2026-02-16,Kit lens is soft at the edges. Raised a replacement request on day 3.
+RV0383,ZP0112,2,True,2026-03-19,Bekaar experience. Overheats during 4K recording.
+RV0384,ZP0113,2,True,2026-05-23,Mast product hai! Images are sharp at high ISO. Paise vasool.
+RV0385,ZP0113,5,True,2026-02-18,Sound quality and build are premium. Battery lasts a full shoot. No complaints so far.
+RV0386,ZP0113,1,True,2026-01-24,Disappointed. Overheats during 4K recording. Support kept transferring my call.
+RV0387,ZP0114,4,True,2026-06-04,Using the Flip 6 for 1 months now. Battery easily lasts a week of commuting. Totally worth the money.
+RV0388,ZP0114,5,False,2026-06-12,Bought this during the sale. Battery easily lasts a week of commuting. Battery backup is genuinely good.
+RV0389,ZP0114,3,True,2026-03-13,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0390,ZP0115,2,True,2026-01-05,Not as advertised. Battery drains faster than claimed. Returning it.
+RV0391,ZP0115,3,True,2026-07-25,Not as advertised. ANC hisses in quiet rooms. Returning it.
+RV0392,ZP0115,2,True,2026-07-04,Sound quality and build are premium. Fit is comfortable for long sessions. No complaints so far.
+RV0393,ZP0115,4,True,2026-07-06,Bought this during the sale. Battery easily lasts a week of commuting. Battery backup is genuinely good.
+RV0394,ZP0116,1,True,2026-01-27,Not as advertised. ANC hisses in quiet rooms. Returning it.
+RV0395,ZP0116,5,True,2026-01-15,Sound quality and build are premium. Noise cancellation is excellent. No complaints so far.
+RV0396,ZP0116,2,True,2026-09-22,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0397,ZP0117,3,True,2026-05-28,Battery drains faster than claimed. Build feels cheap for this price.
+RV0398,ZP0117,1,True,2026-10-08,Using the PartyBox 110 for 9 months now. Noise cancellation is excellent. Totally worth the money.
+RV0399,ZP0117,2,True,2026-04-06,Bluetooth keeps disconnecting. Raised a replacement request on day 3.
+RV0400,ZP0117,3,False,2026-07-04,Working flawlessly for daily use. Fit is comfortable for long sessions.
+RV0401,ZP0118,2,True,2026-08-17,Battery drains faster than claimed. Raised a replacement request on day 3.
+RV0402,ZP0118,2,True,2026-10-09,ANC hisses in quiet rooms. Build feels cheap for this price.
+RV0403,ZP0118,2,False,2026-05-22,Disappointed. ANC hisses in quiet rooms. Support kept transferring my call.
+RV0404,ZP0118,1,True,2026-05-21,ANC hisses in quiet rooms. The box was already opened when it arrived.
+RV0405,ZP0118,2,True,2026-10-12,ANC hisses in quiet rooms. Raised a replacement request on day 3.
+RV0406,ZP0119,4,True,2026-09-10,Mast product hai! Bass is tight and vocals are clear. Paise vasool.
+RV0407,ZP0119,2,True,2026-01-20,Disappointed. Left earbud stopped charging after two weeks. Support kept transferring my call.
+RV0408,ZP0120,3,True,2026-07-18,Battery easily lasts a week of commuting. Delivery was quick and packaging was sealed. Recommended.
+RV0409,ZP0120,1,False,2026-03-28,Disappointed. ANC hisses in quiet rooms. Support kept transferring my call.
+RV0410,ZP0120,5,True,2026-05-17,Bought this during the sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0411,ZP0120,2,True,2026-08-04,Mast product hai! Noise cancellation is excellent. Paise vasool.
+RV0412,ZP0121,5,True,2026-05-14,Bought this during the sale. Noise cancellation is excellent. Battery backup is genuinely good.
+RV0413,ZP0121,4,True,2026-08-27,Working flawlessly for daily use. Noise cancellation is excellent.
+RV0414,ZP0121,4,True,2026-04-08,Noise cancellation is excellent. Delivery was quick and packaging was sealed. Recommended.
+RV0415,ZP0122,1,True,2026-01-25,Mast product hai! Battery easily lasts a week of commuting. Paise vasool.
+RV0416,ZP0122,1,True,2026-02-21,Mast product hai! Fit is comfortable for long sessions. Paise vasool.
+RV0417,ZP0122,3,True,2026-04-03,Disappointed. Battery drains faster than claimed. Support kept transferring my call.
+RV0418,ZP0122,2,False,2026-08-13,Sound quality and build are premium. Bass is tight and vocals are clear. No complaints so far.
+RV0419,ZP0123,1,True,2026-04-24,Mast product hai! Bass is tight and vocals are clear. Paise vasool.
+RV0420,ZP0123,1,True,2026-05-10,Mast product hai! Noise cancellation is excellent. Paise vasool.
+RV0421,ZP0123,2,True,2026-07-16,Sound quality and build are premium. Bass is tight and vocals are clear. No complaints so far.
+RV0422,ZP0123,4,True,2026-05-23,Using the Emberton II for 2 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0423,ZP0123,2,True,2026-06-23,Fit is comfortable for long sessions. Delivery was quick and packaging was sealed. Recommended.
+RV0424,ZP0124,1,True,2026-01-11,Disappointed. Left earbud stopped charging after two weeks. Support kept transferring my call.
+RV0425,ZP0124,3,True,2026-03-17,Using the Willen for 2 months now. Bass is tight and vocals are clear. Totally worth the money.
+RV0426,ZP0124,1,True,2026-05-13,Battery drains faster than claimed. Build feels cheap for this price.
+RV0427,ZP0124,1,True,2026-02-14,Not as advertised. Battery drains faster than claimed. Returning it.
+RV0428,ZP0124,4,True,2026-09-24,Using the Willen for 1 months now. Noise cancellation is excellent. Totally worth the money.
+RV0429,ZP0125,2,True,2026-07-07,Working flawlessly for daily use. Fit is comfortable for long sessions.
+RV0430,ZP0125,1,True,2026-10-13,Mast product hai! Noise cancellation is excellent. Paise vasool.
+RV0431,ZP0126,3,False,2026-09-04,Bought this during teh sale. Fit is comfortable for long sessions. Battery backup is genuinely good.
+RV0432,ZP0126,5,False,2026-08-25,Using the Soundcore Boom 2 for 3 months now. Battery easily lasts a week of commuting. Totally worth the money.
+RV0433,ZP0126,1,True,2026-08-14,Using the Soundcore Boom 2 for 1 months now. Noise cancellation is excellent. Totally worth the money.
+RV0434,ZP0127,4,True,2026-02-17,Bass is tight and vocals are clear. Delivery was quick and packaging was sealed. Recommended.
+RV0435,ZP0127,5,True,2026-02-08,Working flawlessly for daily use. Battery easily lasts a week of commuting.
+RV0436,ZP0127,5,True,2026-07-22,Sound quality and build are premium. Battery easily lasts a week of commuting. No complaints so far.
+RV0437,ZP0128,1,False,2026-04-12,Working flawlessly for daily use. Battery lasts a full working day.
+RV0438,ZP0128,5,True,2026-03-03,Bought this during the sale. Charging is fast. Battery backup is genuinely good.
+RV0439,ZP0128,5,False,2026-10-19,Using the 737 PowerCore 24000 for 3 months now. Display is bright even outdoors. Totally worth the money.
+RV0440,ZP0129,2,True,2026-08-26,Bekaar experience. Heating near the camera module.
+RV0441,ZP0129,5,True,2026-07-21,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0442,ZP0129,1,True,2026-03-14,Bought this during the sale. Camera handles low light well. Battery backup is genuinely good.
+RV0443,ZP0130,4,False,2026-01-15,Bought this during the sale. Battery lasts a full working day. Battery backup is genuinely good.
+RV0444,ZP0130,5,True,2026-10-02,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0445,ZP0130,2,True,2026-01-20,Not as advertised. Ads in the UI are annoying. Returning it.
+RV0446,ZP0131,4,True,2026-09-19,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0447,ZP0131,5,True,2026-04-19,Working flawlessly for daily use. Camera handles low light well.
+RV0448,ZP0131,4,True,2026-10-17,Using the Power Bank 3i 20000 for 3 months now. Battery lasts a full working day. Totally worth the money.
+RV0449,ZP0132,4,False,2026-09-09,Working flawlessly for daily use. Charging is fast.
+RV0450,ZP0132,5,True,2026-06-27,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0451,ZP0132,3,True,2026-06-18,Ads in the UI are annoying. Raised a replacement request on day 3.
+RV0452,ZP0133,1,True,2026-09-25,Disappointed. Display has a green tint. Support kept transferring my call.
+RV0453,ZP0133,1,True,2026-01-11,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0454,ZP0134,1,True,2026-07-25,Mast product hai! Camera handles low light well. Paise vasool.
+RV0455,ZP0134,3,True,2026-09-16,Working flawlessly for daily use. Display is bright even outdoors.
+RV0456,ZP0134,5,True,2026-04-10,Working flawlessly for daily use. Display is bright even outdoors.
+RV0457,ZP0134,3,True,2026-07-05,Not as advertised. Ads in teh UI are annoying. Returning it.
+RV0458,ZP0134,5,False,2026-08-19,Using the Power Bank 10000 for 1 months now. Display is bright even outdoors. Totally worth the money.
+RV0459,ZP0135,5,True,2026-02-28,Display is bright even outdoors. Delivery was quick and packaging was sealed. Recommended.
+RV0460,ZP0135,3,False,2026-08-26,Not as advertised. Heating near the camera module. Returning it.
+RV0461,ZP0135,2,True,2026-01-02,Display has a green tint. Raised a replacement request on day 3.
+RV0462,ZP0135,3,True,2026-02-01,Mast product hai! Camera handles low light well. Paise vasool.
+RV0463,ZP0136,5,True,2026-01-28,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0464,ZP0136,1,True,2026-02-28,Working flawlessly for daily use. Charging is fast.
+RV0465,ZP0136,5,False,2026-09-12,Mast product hai! Charging is fast. Paise vasool.
+RV0466,ZP0136,2,False,2026-04-15,Battery drops 20% overnight. The box was already opened when it arrived.
+RV0467,ZP0137,5,True,2026-07-24,Working flawlessly for daily use. Charging is fast.
+RV0468,ZP0137,4,True,2026-04-18,Sound quality and build are premium. Camera handles low light well. No complaints so far.
+RV0469,ZP0138,5,True,2026-07-07,Charging is fast. Delivery was quick and packaging was sealed. Recommended.
+RV0470,ZP0138,4,True,2026-06-22,Working flawlessly for daily use. Display is bright even outdoors.
+RV0471,ZP0138,5,True,2026-04-06,Bought this during the sale. Camera handles low light well. Battery backup is genuinely good.
+RV0472,ZP0138,5,True,2026-05-23,Battery lasts a full working day. Delivery was quick and packaging was sealed. Recommended.
+RV0473,ZP0138,1,True,2026-09-01,Sound quality and build are premium. Battery lasts a full working day. No complaints so far.
+RV0474,ZP0139,1,True,2026-06-18,Not as advertised. Battery drops 20% overnight. Returning it.
+RV0475,ZP0139,4,True,2026-09-08,Sound quality and build are premium. Charging is fast. No complaints so far.
+RV0476,ZP0140,2,True,2026-05-28,Mast product hai! Camera handles low light well. Paise vasool.
+RV0477,ZP0140,2,True,2026-10-28,Display has a green tint. Raised a replacement request on day 3.
+RV0478,ZP0140,3,True,2026-04-18,Disappointed. Display has a green tint. Support kept transferring my call.
+RV0479,ZP0140,5,True,2026-08-26,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0480,ZP0141,3,True,2026-03-02,Display has a green tint. Raised a replacement request on day 3.
+RV0481,ZP0141,1,True,2026-03-28,Disappointed. Battery drops 20% overnight. Support kept transferring my call.
+RV0482,ZP0141,1,True,2026-04-09,Working flawlessly for daily use. Charging is fast.
+RV0483,ZP0141,3,False,2026-06-23,Battery drops 20% overnight. Build feels cheap for this price.
+RV0484,ZP0141,4,True,2026-02-12,Working flawlessly for daily use. Battery lasts a full working day.
+RV0485,ZP0142,1,True,2026-04-18,Not as advertised. Ads in the UI are annoying. Returning it.
+RV0486,ZP0142,4,True,2026-10-10,Bought this during the sale. Display is bright even outdoors. Battery backup is genuinely good.
+RV0487,ZP0142,1,True,2026-06-18,Mast product hai! Charging is fast. Paise vasool.
+RV0488,ZP0142,1,True,2026-07-27,Using the Power Bank 10000 for 2 months now. Charging is fast. Totally worth the money.
+RV0489,ZP0142,2,True,2026-05-16,Mast product hai! Display is bright even outdoors. Paise vasool.
+RV0490,ZP0143,3,True,2026-06-19,Mast product hai! Very compact for travel. Paise vasool.
+RV0491,ZP0143,1,True,2026-08-18,Mast product hai! Charges my laptop and phone togetehr. Paise vasool.
+RV0492,ZP0143,1,True,2026-03-15,Bekaar experience. Stopped working after a month.
+RV0493,ZP0143,1,True,2026-01-10,Very compact for travel. Delivery was quick and packaging was sealed. Recommended.
+RV0494,ZP0143,5,True,2026-09-28,Stays cool under load. Delivery was quick and packaging was sealed. Recommended.
+RV0495,ZP0144,4,True,2026-10-17,Sound quality and build are premium. Very compact for travel. No complaints so far.
+RV0496,ZP0144,2,True,2026-01-17,Working flawlessly for daily use. Charges my laptop and phone together.
+RV0497,ZP0144,2,True,2026-07-10,Bought this during the sale. Stays cool under load. Battery backup is genuinely good.
+RV0498,ZP0144,4,True,2026-01-24,Bought this during the sale. Charges my laptop and phone together. Battery backup is genuinely good.
+RV0499,ZP0145,1,True,2026-06-06,Working flawlessly for daily use. Stays cool under load.
+RV0500,ZP0145,1,True,2026-04-14,Stopped working after a month. Build feels cheap for this price.
+RV0501,ZP0145,3,False,2026-07-16,Stopped working after a month. Build feels cheap for this price.
+RV0502,ZP0145,4,True,2026-05-15,Bought this during the sale. Very compact for travel. Battery backup is genuinely good.
+RV0503,ZP0146,1,False,2026-07-10,Not as advertised. Cable is too short. Returning it.
+RV0504,ZP0146,2,False,2026-06-17,Using the 120W GaN Charger for 1 months now. Charges my laptop and phone together. Totally worth the money.
+RV0505,ZP0147,3,True,2026-02-27,Working flawlessly for daily use. Charges my laptop and phone together.
+RV0506,ZP0147,4,True,2026-03-12,Sound quality and build are premium. Stays cool under load. No complaints so far.
+RV0507,ZP0147,5,True,2026-09-03,Working flawlessly for daily use. Very compact for travel.
+RV0508,ZP0148,5,False,2026-10-11,Bought this during the sale. Very compact for travel. Battery backup is genuinely good.
+RV0509,ZP0148,1,True,2026-09-27,Stopped working after a month. The box was already opened when it arrived.
+RV0510,ZP0148,4,True,2026-01-07,Sound quality and build are premium. Stays cool under load. No complaints so far.
+RV0511,ZP0148,1,True,2026-02-18,Using the 35W Dual USB-C Adapter for 2 months now. Charges my laptop and phone together. Totally worth the money.
+RV0512,ZP0148,4,True,2026-08-16,Working flawlessly for daily use. Stays cool under load.
+RV0513,ZP0149,4,True,2026-08-06,Using the 45W Travel Adapter for 1 months now. Very compact for travel. Totally worth the money.
+RV0514,ZP0149,2,True,2026-08-04,Working flawlessly for daily use. Charges my laptop and phone together.
+RV0515,ZP0149,2,True,2026-03-25,Using the 45W Travel Adapter for 2 months now. Very compact for travel. Totally worth the money.
+RV0516,ZP0149,4,True,2026-03-01,Sound quality and build are premium. Very compact for travel. No complaints so far.
+RV0517,ZP0149,1,True,2026-03-09,Cable is too short. Raised a replacement request on day 3.
+RV0518,ZP0150,5,True,2026-04-02,Mast product hai! Stays cool under load. Paise vasool.
+RV0519,ZP0150,2,True,2026-06-25,Stopped working after a month. Raised a replacement request on day 3.
+RV0520,ZP0150,5,True,2026-09-07,Mast product hai! Stays cool under load. Paise vasool.
+RV0521,ZP0150,3,True,2026-08-16,Mast product hai! Charges my laptop and phone together. Paise vasool.
+RV0522,ZP0151,3,True,2026-09-28,Stopped working after a month. The box was already opened when it arrived.
+RV0523,ZP0151,1,True,2026-05-20,Gets uncomfortably hot. The box was already opened when it arrived.
+RV0524,ZP0151,1,True,2026-09-26,Mast product hai! Very compact for travel. Paise vasool.
+RV0525,ZP0151,5,False,2026-09-25,Working flawlessly for daily use. Stays cool under load.
+RV0526,ZP0152,1,False,2026-01-25,Mast product hai! Charges my laptop and phone together. Paise vasool.
+RV0527,ZP0152,5,True,2026-02-05,Bought this during the sale. Charges my laptop and phone together. Battery backup is genuinely good.
+RV0528,ZP0153,3,True,2026-02-23,Gets uncomfortably hot. Build feels cheap for this price.
+RV0529,ZP0153,2,False,2026-02-12,Very compact for travel. Delivery was quick and packaging was sealed. Recommended.
+RV0530,ZP0153,1,False,2026-07-09,Bekaar experience. Gets uncomfortably hot.
+RV0531,ZP0154,2,True,2026-02-22,Bought this during the sale. Stays cool under load. Battery backup is genuinely good.
+RV0532,ZP0154,5,True,2026-08-02,Bought this during the sale. Very compact for travel. Battery backup is genuinely good.
+RV0533,ZP0155,1,True,2026-07-08,Cable is too short. The box was already opened when it arrived.
+RV0534,ZP0155,1,False,2026-04-28,Very compact for travel. Delivery was quick and packaging was sealed. Recommended.
+RV0535,ZP0155,1,True,2026-05-13,Disappointed. Gets uncomfortably hot. Support kept transferring my call.
+RV0536,ZP0156,1,True,2026-03-09,Bought this during the sale. Stays cool under load. Battery backup is genuinely good.
+RV0537,ZP0156,2,True,2026-04-17,Using the 33W Charger for 2 months now. Very compact for travel. Totally worth the money.
+RV0538,ZP0156,1,True,2026-08-21,Stopped working after a month. Raised a replacement request on day 3.
+RV0539,ZP0156,3,True,2026-06-04,Gets uncomfortably hot. Build feels cheap for this price.
+RV0540,ZP0156,3,True,2026-06-10,Bekaar experience. Cable is too short.
+RV0541,ZP0157,4,False,2026-10-02,Bought this during the sale. Stays cool under load. Battery backup is genuinely good.
+RV0542,ZP0157,2,True,2026-03-03,Disappointed. Stopped working after a month. Support kept transferring my call.
+RV0543,ZP0157,2,True,2026-05-27,Mast product hai! Charges my laptop and phone together. Paise vasool.
+RV0544,ZP0158,1,True,2026-09-10,Battery lasts barely 3 hours. Build feels cheap for this price.
+RV0545,ZP0158,2,False,2026-07-13,Not as advertised. Battery lasts barely 3 hours. Returning it.
+RV0546,ZP0158,1,True,2026-01-06,Fans stay quiet under load. Delivery was quick and packaging was sealed. Recommended.
+RV0547,ZP0158,2,True,2026-06-06,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0548,ZP0158,2,True,2026-09-01,Mast product hai! Boots in seconds. Paise vasool.
+RV0549,ZP0159,4,True,2026-09-20,Working flawlessly for daily use. Fans stay quiet under load.
+RV0550,ZP0159,3,False,2026-03-10,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0551,ZP0159,2,True,2026-05-02,Not as advertised. Wi-Fi card keeps dropping. Returning it.
+RV0552,ZP0160,5,True,2026-08-15,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0553,ZP0160,4,True,2026-09-03,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0554,ZP0160,2,False,2026-07-19,Mast product hai! Boots in seconds. Paise vasool.
+RV0555,ZP0160,3,False,2026-04-17,Working flawlessly for daily use. Screen colours are accurate.
+RV0556,ZP0160,2,True,2026-10-08,Disappointed. Wi-Fi card keeps dropping. Support kept transferring my call.
+RV0557,ZP0161,1,False,2026-02-25,Disappointed. Fan noise is loud under load. Support kept transferring my call.
+RV0558,ZP0161,3,True,2026-02-18,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0559,ZP0161,1,True,2026-05-17,Wi-Fi card keeps dropping. The box was already opened when it arrived.
+RV0560,ZP0161,2,False,2026-03-23,Disappointed. Fan noise is loud under load. Support kept transferring my call.
+RV0561,ZP0162,2,True,2026-05-03,Using the Odyssey G5 32 for 1 months now. Boots in seconds. Totally worth the money.
+RV0562,ZP0162,3,True,2026-07-18,Fan noise is loud under load. Raised a replacement request on day 3.
+RV0563,ZP0162,1,False,2026-05-24,Not as advertised. Screen has backlight bleeding. Returning it.
+RV0564,ZP0163,5,True,2026-10-25,Sound quality and build are premium. Screen colours are accurate. No complaints so far.
+RV0565,ZP0163,2,False,2026-06-27,Fan noise is loud under load. The box was already opened when it arrived.
+RV0566,ZP0163,2,True,2026-03-27,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0567,ZP0163,3,True,2026-07-18,Using the Smart Monitor M7 32 for 3 months now. Keyboard is great for typing all day. Totally worth the money.
+RV0568,ZP0164,2,True,2026-03-21,Fan noise is loud under load. Build feels cheap for this price.
+RV0569,ZP0164,5,True,2026-10-18,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0570,ZP0164,5,True,2026-03-25,Using the MOBIUZ EX2710Q for 9 months now. Screen colours are accurate. Totally worth the money.
+RV0571,ZP0165,2,True,2026-03-24,Disappointed. Battery lasts barely 3 hours. Support kept transferring my call.
+RV0572,ZP0165,1,True,2026-03-21,Not as advertised. Wi-Fi card keeps dropping. Returning it.
+RV0573,ZP0165,1,True,2026-04-15,Working flawlessly for daily use. Fans stay quiet under load.
+RV0574,ZP0165,2,True,2026-03-24,Battery lasts barely 3 hours. Build feels cheap for this price.
+RV0575,ZP0166,4,True,2026-03-18,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0576,ZP0166,1,False,2026-06-26,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0577,ZP0167,2,True,2026-03-04,Disappointed. Screen has backlight bleeding. Support kept transferring my call.
+RV0578,ZP0167,4,True,2026-07-27,Working flawlessly for daily use. Screen colours are accurate.
+RV0579,ZP0168,5,False,2026-07-24,Bought this during the sale. Boots in seconds. Battery backup is genuinely good.
+RV0580,ZP0168,5,True,2026-07-02,Bought this during the sale. Keyboard is great for typing all day. Battery backup is genuinely good.
+RV0581,ZP0168,1,True,2026-03-07,Disappointed. Screen has backlight bleeding. Support kept transferring my call.
+RV0582,ZP0168,5,True,2026-01-28,Sound quality and build are premium. Screen colours are accurate. No complaints so far.
+RV0583,ZP0168,2,True,2026-06-18,Screen has backlight bleeding. Build feels cheap for this price.
+RV0584,ZP0169,2,True,2026-01-01,Battery lasts barely 3 hours. Raised a replacement request on day 3.
+RV0585,ZP0169,2,True,2026-07-27,Disappointed. Screen has backlight bleeding. Support kept transferring my call.
+RV0586,ZP0169,5,True,2026-10-04,Using the X27q for 2 months now. Fans stay quiet under load. Totally worth the money.
+RV0587,ZP0170,2,True,2026-06-24,Disappointed. Battery lasts barely 3 hours. Support kept transferring my call.
+RV0588,ZP0170,1,True,2026-01-01,Not as advertised. Screen has backlight bleeding. Returning it.
+RV0589,ZP0170,2,True,2026-07-28,Bekaar experience. Screen has backlight bleeding.
+RV0590,ZP0170,1,False,2026-02-15,Not as advertised. Fan noise is loud under load. Returning it.
+RV0591,ZP0171,3,True,2026-08-13,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0592,ZP0171,4,True,2026-10-13,Fans stay quiet under load. Delivery was quick and packaging was sealed. Recommended.
+RV0593,ZP0172,5,False,2026-06-07,Keyboard is great for typing all day. Delivery was quick and packaging was sealed. Recommended.
+RV0594,ZP0172,5,True,2026-06-10,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0595,ZP0172,4,True,2026-09-21,Keyboard is great for typing all day. Delivery was quick and packaging was sealed. Recommended.
+RV0596,ZP0172,1,True,2026-09-03,Using the MX Master 3S for 9 months now. Fans stay quiet under load. Totally worth the money.
+RV0597,ZP0173,2,False,2026-08-18,Bought this during the sale. Keyboard is great for typing all day. Battery backup is genuinely good.
+RV0598,ZP0173,1,True,2026-04-14,Using the MX Keys S for 3 months now. Fans stay quiet under load. Totally worth the money.
+RV0599,ZP0173,3,True,2026-01-02,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0600,ZP0174,5,False,2026-10-25,Sound quality and build are premium. Boots in seconds. No complaints so far.
+RV0601,ZP0174,2,True,2026-05-22,Screen has backlight bleeding. The box was already opened when it arrived.
+RV0602,ZP0174,2,True,2026-10-26,Bought this during the sale. Keyboard is great for typing all day. Battery backup is genuinely good.
+RV0603,ZP0175,2,True,2026-01-15,Working flawlessly for daily use. Screen colours are accurate.
+RV0604,ZP0175,4,True,2026-09-11,Sound quality and build are premium. Boots in seconds. No complaints so far.
+RV0605,ZP0175,1,True,2026-07-11,Working flawlessly for daily use. Fans stay quiet under load.
+RV0606,ZP0175,4,True,2026-09-03,Working flawlessly for daily use. Screen colours are accurate.
+RV0607,ZP0176,1,False,2026-01-15,Working flawlessly for daily use. Screen colours are accurate.
+RV0608,ZP0176,5,True,2026-07-21,Bought this during the sale. Fans stay quiet under load. Battery backup is genuinely good.
+RV0609,ZP0176,5,True,2026-05-09,Working flawlessly for daily use. Screen colours are accurate.
+RV0610,ZP0177,2,True,2026-05-08,Mast product hai! Fans stay quiet under load. Paise vasool.
+RV0611,ZP0177,3,True,2026-08-19,Battery lasts barely 3 hours. Raised a replacement request on day 3.
+RV0612,ZP0177,4,True,2026-09-21,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0613,ZP0178,5,True,2026-03-24,Mast product hai! Keyboard is great for typing all day. Paise vasool.
+RV0614,ZP0178,5,True,2026-10-16,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0615,ZP0178,3,False,2026-08-24,Not as advertised. Wi-Fi card keeps dropping. Returning it.
+RV0616,ZP0178,4,True,2026-10-23,Sound quality and build are premium. Keyboard is great for typing all day. No complaints so far.
+RV0617,ZP0179,4,True,2026-02-20,Mast product hai! Screen colours are accurate. Paise vasool.
+RV0618,ZP0179,2,True,2026-02-18,Bought this during the sale. Fans stay quiet under load. Battery backup is genuinely good.
+RV0619,ZP0179,3,True,2026-02-18,Wi-Fi card keeps dropping. Build feels cheap for this price.
+RV0620,ZP0179,4,True,2026-01-11,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0621,ZP0180,5,False,2026-02-21,Screen colours are accurate. Delivery was quick and packaging was sealed. Recommended.
+RV0622,ZP0180,1,True,2026-06-21,Bought this during the sale. Boots in seconds. Battery backup is genuinely good.
+RV0623,ZP0180,2,False,2026-10-25,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0624,ZP0180,4,True,2026-06-12,Bought this during the sale. Fans stay quiet under load. Battery backup is genuinely good.
+RV0625,ZP0180,4,True,2026-06-27,Using the K2 V2 for 9 months now. Boots in seconds. Totally worth the money.
+RV0626,ZP0181,3,True,2026-05-26,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0627,ZP0181,3,True,2026-03-10,Using the K8 Pro for 6 months now. Boots in seconds. Totally worth the money.
+RV0628,ZP0182,2,False,2026-08-11,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0629,ZP0182,2,True,2026-04-12,Bekaar experience. Battery lasts barely 3 hours.
+RV0630,ZP0182,2,True,2026-09-20,Disappointed. Screen has backlight bleeding. Support kept transferring my call.
+RV0631,ZP0182,2,True,2026-01-20,Mast product hai! Boots in seconds. Paise vasool.
+RV0632,ZP0183,5,True,2026-06-23,Using the Harpoon RGB for 6 months now. Boots in seconds. Totally worth the money.
+RV0633,ZP0183,4,True,2026-08-20,Mast product hai! Keyboard is great for typing all day. Paise vasool.
+RV0634,ZP0183,4,False,2026-01-24,Working flawlessly for daily use. Screen colours are accurate.
+RV0635,ZP0183,1,False,2026-06-05,Disappointed. Fan noise is loud under load. Support kept transferring my call.
+RV0636,ZP0184,4,False,2026-07-03,Working flawlessly for daily use. Screen colours are accurate.
+RV0637,ZP0184,3,True,2026-05-12,Bought this during the sale. Screen colours are accurate. Battery backup is genuinely good.
+RV0638,ZP0184,2,True,2026-07-04,Disappointed. Battery lasts barely 3 hours. Support kept transferring my call.
+RV0639,ZP0185,2,True,2026-02-09,Using teh KM3322W Combo for 9 months now. Fans stay quiet under load. Totally worth the money.
+RV0640,ZP0185,5,True,2026-09-18,Boots in seconds. Delivery was quick and packaging was sealed. Recommended.
+RV0641,ZP0185,2,True,2026-07-02,Bekaar experience. Wi-Fi card keeps dropping.
+RV0642,ZP0185,3,True,2026-03-15,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0643,ZP0185,2,True,2026-09-07,Not as advertised. Wi-Fi card keeps dropping. Returning it.
+RV0644,ZP0186,4,False,2026-06-25,Keyboard is great for typing all day. Delivery was quick and packaging was sealed. Recommended.
+RV0645,ZP0186,2,True,2026-10-20,Battery lasts barely 3 hours. Raised a replacement request on day 3.
+RV0646,ZP0186,2,False,2026-05-24,Fan noise is loud under load. Raised a replacement request on day 3.
+RV0647,ZP0187,5,True,2026-10-01,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0648,ZP0187,1,True,2026-01-25,Working flawlessly for daily use. Keyboard is great for typing all day.
+RV0649,ZP0188,3,True,2026-04-18,Wi-Fi card keeps dropping. The box was already opened when it arrived.
+RV0650,ZP0188,1,True,2026-07-23,Screen has backlight bleeding. Raised a replacement request on day 3.
+RV0651,ZP0188,2,False,2026-05-09,Sound quality and build are premium. Fans stay quiet under load. No complaints so far.
+RV0652,ZP0189,3,False,2026-09-06,Battery lasts barely 3 hours. The box was already opened when it arrived.
+RV0653,ZP0189,2,True,2026-09-11,Screen has backlight bleeding. The box was already opened when it arrived.
+RV0654,ZP0190,1,True,2026-05-15,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0655,ZP0190,3,True,2026-02-25,Bought this during the sale. Installation team was professional. Battery backup is genuinely good.
+RV0656,ZP0190,1,True,2026-03-22,Working flawlessly for daily use. Works silently.
+RV0657,ZP0190,2,False,2026-08-24,Not as advertised. Installation was delayed by a week. Returning it.
+RV0658,ZP0191,5,True,2026-08-24,Bought this during the sale. Installation team was professional. Battery backup is genuinely good.
+RV0659,ZP0191,5,False,2026-09-20,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0660,ZP0191,1,True,2026-01-07,Disappointed. Water leaks from the bottom. Support kept transferring my call.
+RV0661,ZP0191,1,True,2026-04-22,Installation was delayed by a week. Raised a replacement request on day 3.
+RV0662,ZP0191,4,True,2026-03-23,Using the 8kg Front Load Washing Machine for 9 months now. Energy bills dropped noticeably. Totally worth the money.
+RV0663,ZP0192,2,True,2026-01-23,Bought this during the sale. Works silently. Battery backup is genuinely good.
+RV0664,ZP0192,3,True,2026-08-10,Using the 253L Double Door Refrigerator for 3 months now. Energy bills dropped noticeably. Totally worth the money.
+RV0665,ZP0193,5,True,2026-01-25,Mast product hai! Works silently. Paise vasool.
+RV0666,ZP0193,4,True,2026-10-08,Using teh 6.5kg Top Load Washing Machine for 1 months now. Works silently. Totally worth the money.
+RV0667,ZP0193,3,True,2026-09-09,Making loud noise during spin cycle. Build feels cheap for this price.
+RV0668,ZP0194,1,True,2026-01-19,Energy bills dropped noticeably. Delivery was quick and packaging was sealed. Recommended.
+RV0669,ZP0194,3,True,2026-05-28,Bekaar experience. Cooling is weak in summer.
+RV0670,ZP0195,3,True,2026-07-04,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0671,ZP0195,1,True,2026-03-16,Mast product hai! Energy bills dropped noticeably. Paise vasool.
+RV0672,ZP0195,2,False,2026-10-21,Mast product hai! Energy bills dropped noticeably. Paise vasool.
+RV0673,ZP0195,2,False,2026-08-25,Energy bills dropped noticeably. Delivery was quick and packaging was sealed. Recommended.
+RV0674,ZP0195,4,True,2026-07-24,Bought this during the sale. Works silently. Battery backup is genuinely good.
+RV0675,ZP0196,5,True,2026-05-20,Mast product hai! Works silently. Paise vasool.
+RV0676,ZP0196,4,True,2026-05-09,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0677,ZP0197,1,True,2026-07-24,Making loud noise during spin cycle. Raised a replacement request on day 3.
+RV0678,ZP0197,2,True,2026-01-15,Energy bills dropped noticeably. Delivery was quick and packaging was sealed. Recommended.
+RV0679,ZP0197,5,True,2026-03-03,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0680,ZP0198,4,False,2026-03-18,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0681,ZP0198,2,True,2026-08-27,Mast product hai! Energy bills dropped noticeably. Paise vasool.
+RV0682,ZP0198,5,True,2026-04-26,Installation team was professional. Delivery was quick and packaging was sealed. Recommended.
+RV0683,ZP0199,5,True,2026-07-03,Installation team was professional. Delivery was quick and packaging was sealed. Recommended.
+RV0684,ZP0199,5,True,2026-03-12,Energy bills dropped noticeably. Delivery was quick and packaging was sealed. Recommended.
+RV0685,ZP0199,1,True,2026-05-19,Working flawlessly for daily use. Works silently.
+RV0686,ZP0199,3,True,2026-09-03,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0687,ZP0200,3,True,2026-01-21,Bought this during the sale. Works silently. Battery backup is genuinely good.
+RV0688,ZP0200,3,True,2026-04-28,Sound quality and build are premium. Energy bills dropped noticeably. No complaints so far.
+RV0689,ZP0200,5,True,2026-07-24,Installation team was professional. Delivery was quick and packaging was sealed. Recommended.
+RV0690,ZP0200,4,True,2026-05-05,Sound quality and build are premium. Works silently. No complaints so far.
+RV0691,ZP0200,1,True,2026-06-02,Water leaks from the bottom. Build feels cheap for this price.
+RV0692,ZP0201,5,True,2026-08-05,Using the 15L Storage Water Heater for 6 months now. Works silently. Totally worth the money.
+RV0693,ZP0201,4,True,2026-10-15,Bought this during the sale. Energy bills dropped noticeably. Battery backup is genuinely good.
+RV0694,ZP0201,5,True,2026-02-28,Installation team was professional. Delivery was quick and packaging was sealed. Recommended.
+RV0695,ZP0202,2,True,2026-05-25,Bekaar experience. Water leaks from teh bottom.
+RV0696,ZP0202,2,True,2026-02-27,Disappointed. Making loud noise during spin cycle. Support kept transferring my call.
+RV0697,ZP0202,1,True,2026-06-22,Cooling is weak in summer. Raised a replacement request on day 3.
+RV0698,ZP0202,3,True,2026-07-16,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0699,ZP0202,3,True,2026-06-08,Using the Zodiac Mixer Grinder for 6 months now. Works silently. Totally worth the money.
+RV0700,ZP0203,2,False,2026-08-21,Bought this during the sale. Works silently. Battery backup is genuinely good.
+RV0701,ZP0203,4,True,2026-07-07,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0702,ZP0203,3,True,2026-02-06,Using the 7kg Front Load Washing Machine for 6 months now. Installation team was professional. Totally worth the money.
+RV0703,ZP0204,4,True,2026-05-10,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0704,ZP0204,5,True,2026-09-13,Bought this during the sale. Installation team was professional. Battery backup is genuinely good.
+RV0705,ZP0204,1,True,2026-04-03,Sound quality and build are premium. Energy bills dropped noticeably. No complaints so far.
+RV0706,ZP0204,5,True,2026-09-26,Using the 1 Ton Inverter Split AC for 2 months now. Works silently. Totally worth the money.
+RV0707,ZP0204,1,True,2026-04-22,Bekaar experience. Installation was delayed by a week.
+RV0708,ZP0205,1,True,2026-02-16,Bought this during the sale. Energy bills dropped noticeably. Battery backup is genuinely good.
+RV0709,ZP0205,2,False,2026-05-14,Sound quality and build are premium. Energy bills dropped noticeably. No complaints so far.
+RV0710,ZP0205,3,True,2026-05-11,Bought this during the sale. Works silently. Battery backup is genuinely good.
+RV0711,ZP0205,1,True,2026-05-23,Mast product hai! Energy bills dropped noticeably. Paise vasool.
+RV0712,ZP0206,4,True,2026-05-15,Mast product hai! Installation team was professional. Paise vasool.
+RV0713,ZP0206,4,True,2026-03-03,Working flawlessly for daily use. Energy bills dropped noticeably.
+RV0714,ZP0206,2,False,2026-03-09,Making loud noise during spin cycle. Build feels cheap for this price.
+RV0715,ZP0207,4,True,2026-09-22,Works silently. Delivery was quick and packaging was sealed. Recommended.
+RV0716,ZP0207,3,False,2026-08-20,Sound quality and build are premium. Energy bills dropped noticeably. No complaints so far.

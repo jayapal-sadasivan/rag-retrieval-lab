@@ -1,0 +1,225 @@
+:root {
+  --lab-bg: #f7f9fc;
+  --lab-panel: #ffffff;
+  --lab-border: #dbe4ef;
+  --lab-text: #0f172a;
+  --lab-muted: #64748b;
+  --lab-code: #eef2f9;
+  --semantic: #2563eb;
+  --sparse: #ea580c;
+  --graph: #059669;
+  --hybrid: #7c3aed;
+}
+
+html, body, [class*="css"] {
+  font-family: "Segoe UI", "Inter", system-ui, -apple-system, sans-serif;
+}
+
+.block-container {
+  padding-top: 1.6rem;
+  padding-bottom: 3rem;
+  max-width: 1500px;
+}
+
+#MainMenu, footer { visibility: hidden; }
+
+/* Hero ------------------------------------------------------------------ */
+.lab-hero {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 1.5rem;
+  padding: 1.15rem 1.4rem;
+  margin-bottom: 1.2rem;
+  border: 1px solid var(--lab-border);
+  border-radius: 16px;
+  background: linear-gradient(135deg, #ffffff 0%, #eef4ff 100%);
+}
+.lab-eyebrow {
+  text-transform: uppercase;
+  letter-spacing: 0.14em;
+  font-size: 0.68rem;
+  font-weight: 700;
+  color: var(--semantic);
+  margin-bottom: 0.25rem;
+}
+.lab-hero h1 {
+  font-size: 1.65rem;
+  margin: 0 0 0.25rem 0;
+  color: var(--lab-text);
+  letter-spacing: -0.01em;
+}
+.lab-hero p {
+  margin: 0;
+  color: var(--lab-muted);
+  font-size: 0.92rem;
+  max-width: 90ch;
+}
+.lab-tag {
+  white-space: nowrap;
+  border-radius: 999px;
+  padding: 0.28rem 0.8rem;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: #ffffff;
+  background: var(--semantic);
+}
+
+/* KPI ------------------------------------------------------------------- */
+.lab-kpi {
+  background: var(--lab-panel);
+  border: 1px solid var(--lab-border);
+  border-radius: 12px;
+  padding: 0.7rem 0.9rem;
+}
+.lab-kpi-value {
+  font-size: 1.42rem;
+  font-weight: 750;
+  line-height: 1.1;
+}
+.lab-kpi-label {
+  color: var(--lab-muted);
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  margin-top: 0.2rem;
+}
+
+/* Badges / chips -------------------------------------------------------- */
+.lab-badge {
+  display: inline-block;
+  padding: 0.12rem 0.55rem;
+  border-radius: 999px;
+  font-size: 0.68rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  color: #fff;
+  margin-right: 0.35rem;
+}
+.lab-badge-semantic { background: var(--semantic); }
+.lab-badge-sparse   { background: var(--sparse); }
+.lab-badge-graph    { background: var(--graph); }
+.lab-badge-hybrid   { background: var(--hybrid); }
+
+.lab-chip-row { display: flex; flex-wrap: wrap; gap: 0.4rem; margin: 0.2rem 0 0.6rem 0; }
+.lab-chip {
+  display: inline-block;
+  padding: 0.18rem 0.6rem;
+  border-radius: 999px;
+  border: 1px solid var(--lab-border);
+  background: var(--lab-code);
+  font-size: 0.72rem;
+  color: var(--lab-text);
+  font-family: "Cascadia Code", Consolas, monospace;
+}
+.lab-chip-good { border-color: #86efac; background: #f0fdf4; }
+.lab-chip-bad  { border-color: #fca5a5; background: #fef2f2; }
+
+/* Explanation rail ------------------------------------------------------ */
+div[data-testid="stColumn"]:has(.lab-note-title) {
+  position: sticky;
+  top: 3.4rem;
+  align-self: flex-start;
+}
+div[data-testid="stColumn"]:has(.lab-note-title) div[data-testid="stVerticalBlockBorderWrapper"] {
+  background: linear-gradient(180deg, #fbfdff 0%, #f4f8ff 100%);
+  border-color: var(--lab-border);
+  border-radius: 14px;
+}
+.lab-note-title {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lab-muted);
+  margin-bottom: 0.6rem;
+}
+.lab-note-block {
+  display: flex;
+  gap: 0.55rem;
+  padding: 0.45rem 0;
+  border-top: 1px dashed var(--lab-border);
+}
+.lab-note-block:first-of-type { border-top: none; }
+.lab-note-icon { font-size: 0.95rem; line-height: 1.4; }
+.lab-note-head {
+  font-size: 0.8rem;
+  font-weight: 700;
+  color: var(--lab-text);
+  margin-bottom: 0.1rem;
+}
+.lab-note-body {
+  font-size: 0.82rem;
+  line-height: 1.45;
+  color: #334155;
+}
+
+/* Latency --------------------------------------------------------------- */
+.lab-lat-row { display: flex; gap: 0.4rem; flex-wrap: wrap; margin: 0.3rem 0 0.6rem 0; }
+.lab-lat {
+  font-family: "Cascadia Code", Consolas, monospace;
+  font-size: 0.7rem;
+  padding: 0.14rem 0.5rem;
+  border-radius: 6px;
+  border: 1px solid var(--lab-border);
+  background: var(--lab-panel);
+  color: var(--lab-text);
+}
+.lab-lat-semantic { border-left: 3px solid var(--semantic); }
+.lab-lat-sparse   { border-left: 3px solid var(--sparse); }
+.lab-lat-graph    { border-left: 3px solid var(--graph); }
+.lab-lat-hybrid   { border-left: 3px solid var(--hybrid); }
+
+/* Verdicts / callouts --------------------------------------------------- */
+.lab-pass, .lab-fail {
+  font-size: 0.7rem;
+  font-weight: 800;
+  letter-spacing: 0.04em;
+  padding: 0.1rem 0.5rem;
+  border-radius: 6px;
+}
+.lab-pass { color: #166534; background: #dcfce7; }
+.lab-fail { color: #991b1b; background: #fee2e2; }
+
+.lab-callout {
+  border-radius: 12px;
+  padding: 0.8rem 1rem;
+  margin: 0.6rem 0 0.9rem 0;
+  border: 1px solid var(--lab-border);
+  background: var(--lab-panel);
+  border-left-width: 4px;
+}
+.lab-callout-title { font-weight: 700; font-size: 0.86rem; margin-bottom: 0.2rem; }
+.lab-callout-body { font-size: 0.83rem; color: #334155; line-height: 1.5; }
+.lab-callout-info { border-left-color: var(--semantic); }
+.lab-callout-good { border-left-color: var(--graph); }
+.lab-callout-warn { border-left-color: var(--sparse); }
+.lab-callout-bad  { border-left-color: #dc2626; }
+
+.lab-divider {
+  border-top: 1px solid var(--lab-border);
+  margin: 1rem 0 0.8rem 0;
+  font-size: 0.7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--lab-muted);
+  padding-top: 0.5rem;
+}
+
+/* Streamlit widget polish ---------------------------------------------- */
+div[data-testid="stTextInput"] input {
+  border-radius: 10px;
+  font-size: 0.95rem;
+}
+div[data-testid="stMetric"] { background: transparent; }
+div[data-testid="stDataFrame"] { border-radius: 10px; }
+div[data-testid="stExpander"] {
+  border-radius: 10px;
+  border-color: var(--lab-border);
+}
+section[data-testid="stSidebar"] {
+  border-right: 1px solid var(--lab-border);
+}
+section[data-testid="stSidebar"] .block-container { padding-top: 1.4rem; }

@@ -1,0 +1,23 @@
+# Ignore virtual environments and bytecode
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+
+# Ignore notebook checkpoints and Jupyter state
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+
+# Ignore generated artefacts (rebuilt automatically by the notebook and app)
+chroma_store/
+data/chunk_embeddings.npy
+data/chunk_embeddings.sha1
+
+# Local secrets and exports
+.streamlit/secrets.toml
+*.pdf
+
+# OS clutter
+.DS_Store
+Thumbs.db
+desktop.ini

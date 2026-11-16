@@ -1,0 +1,1726 @@
+{
+ "ZP0001": {
+  "anc": true,
+  "battery_hrs": 30,
+  "driver_mm": 40,
+  "weight_g": 254,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0002": {
+  "anc": true,
+  "battery_hrs": 30,
+  "driver_mm": 30,
+  "weight_g": 250,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0003": {
+  "anc": true,
+  "battery_hrs": 32,
+  "driver_mm": 30,
+  "weight_g": 248,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0004": {
+  "anc": true,
+  "battery_hrs": 24,
+  "driver_mm": 40,
+  "weight_g": 238,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0005": {
+  "anc": true,
+  "battery_hrs": 24,
+  "driver_mm": 35,
+  "weight_g": 250,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0006": {
+  "anc": true,
+  "battery_hrs": 60,
+  "driver_mm": 42,
+  "weight_g": 293,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0007": {
+  "anc": true,
+  "battery_hrs": 70,
+  "driver_mm": 40,
+  "weight_g": 232,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0008": {
+  "anc": true,
+  "battery_hrs": 65,
+  "driver_mm": 40,
+  "weight_g": 253,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0009": {
+  "anc": false,
+  "battery_hrs": 20,
+  "driver_mm": 50,
+  "weight_g": 245,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0010": {
+  "anc": true,
+  "battery_hrs": 50,
+  "driver_mm": 40,
+  "weight_g": 218,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0011": {
+  "anc": true,
+  "battery_hrs": 60,
+  "driver_mm": 40,
+  "weight_g": 240,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0012": {
+  "anc": false,
+  "battery_hrs": 50,
+  "driver_mm": 45,
+  "weight_g": 307,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0013": {
+  "anc": true,
+  "battery_hrs": 20,
+  "driver_mm": 40,
+  "weight_g": 385,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0014": {
+  "anc": false,
+  "battery_hrs": 100,
+  "driver_mm": 40,
+  "weight_g": 186,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0015": {
+  "anc": true,
+  "battery_hrs": 6,
+  "ip_rating": "IP54",
+  "wireless_charging": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0016": {
+  "anc": true,
+  "battery_hrs": 5,
+  "ip_rating": "IP54",
+  "wireless_charging": false,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0017": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IPX4",
+  "wireless_charging": true,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0018": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IPX4",
+  "wireless_charging": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0019": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IPX4",
+  "wireless_charging": false,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0020": {
+  "anc": true,
+  "battery_hrs": 6,
+  "ip_rating": "IP57",
+  "wireless_charging": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0021": {
+  "anc": true,
+  "battery_hrs": 6,
+  "ip_rating": "IPX2",
+  "wireless_charging": false,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0022": {
+  "anc": false,
+  "battery_hrs": 6,
+  "ip_rating": "IPX4",
+  "wireless_charging": false,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0023": {
+  "anc": true,
+  "battery_hrs": 5,
+  "ip_rating": "IP68",
+  "wireless_charging": false,
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0024": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IPX5",
+  "wireless_charging": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0025": {
+  "anc": false,
+  "battery_hrs": 5,
+  "ip_rating": "IPX4",
+  "wireless_charging": false,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0026": {
+  "anc": true,
+  "battery_hrs": 6,
+  "ip_rating": "IP68",
+  "wireless_charging": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0027": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IP55",
+  "wireless_charging": true,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0028": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IP55",
+  "wireless_charging": false,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0029": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IP54",
+  "wireless_charging": false,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0030": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IPX5",
+  "wireless_charging": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0031": {
+  "anc": true,
+  "battery_hrs": 6,
+  "ip_rating": "IP55",
+  "wireless_charging": false,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0032": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IP54",
+  "wireless_charging": false,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0033": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IP54",
+  "wireless_charging": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0034": {
+  "anc": true,
+  "battery_hrs": 7,
+  "ip_rating": "IP55",
+  "wireless_charging": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0035": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IPX4",
+  "wireless_charging": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0036": {
+  "anc": true,
+  "battery_hrs": 8,
+  "ip_rating": "IP54",
+  "wireless_charging": true,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0037": {
+  "anc": true,
+  "battery_hrs": 10,
+  "ip_rating": "IPX4",
+  "wireless_charging": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0038": {
+  "ram_gb": 6,
+  "storage_gb": 128,
+  "battery_mah": 3279,
+  "camera_mp": 12,
+  "5g": true,
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0039": {
+  "ram_gb": 6,
+  "storage_gb": 128,
+  "battery_mah": 3349,
+  "camera_mp": 48,
+  "5g": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0040": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 3274,
+  "camera_mp": 48,
+  "5g": true,
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0041": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 3561,
+  "camera_mp": 48,
+  "5g": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0042": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 4000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0043": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 4500,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0044": {
+  "ram_gb": 6,
+  "storage_gb": 128,
+  "battery_mah": 6000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0045": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0046": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 5500,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0047": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 5500,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0048": {
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "battery_mah": 6000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0049": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 4492,
+  "camera_mp": 64,
+  "5g": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0050": {
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "battery_mah": 4700,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0051": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 5100,
+  "camera_mp": 200,
+  "5g": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0052": {
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "battery_mah": 4610,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0053": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0054": {
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "battery_mah": 5500,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0055": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0056": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0057": {
+  "ram_gb": 8,
+  "storage_gb": 128,
+  "battery_mah": 6000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0058": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 4500,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0059": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0060": {
+  "ram_gb": 12,
+  "storage_gb": 256,
+  "battery_mah": 5000,
+  "camera_mp": 50,
+  "5g": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0061": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "battery_mah": 5000,
+  "camera_mp": 64,
+  "5g": true,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0062": {
+  "ram_gb": 8,
+  "storage_gb": 256,
+  "processor": "Apple M3",
+  "gpu": "Integrated",
+  "screen_inch": 13.6,
+  "weight_kg": 1.24,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0063": {
+  "ram_gb": 18,
+  "storage_gb": 512,
+  "processor": "Apple M3 Pro",
+  "gpu": "Integrated",
+  "screen_inch": 14.2,
+  "weight_kg": 1.61,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0064": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i7-13700H",
+  "gpu": "NVIDIA RTX 4050",
+  "screen_inch": 15.6,
+  "weight_kg": 1.86,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0065": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-1340P",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.55,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0066": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-1345U",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.37,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0067": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "AMD Ryzen 5 7530U",
+  "gpu": "Integrated",
+  "screen_inch": 15.6,
+  "weight_kg": 1.75,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0068": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-1335U",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.39,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0069": {
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "processor": "Intel Core i7-13700HX",
+  "gpu": "NVIDIA RTX 4060",
+  "screen_inch": 16.1,
+  "weight_kg": 2.37,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0070": {
+  "ram_gb": 32,
+  "storage_gb": 1024,
+  "processor": "Intel Core Ultra 7 155U",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.09,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0071": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "AMD Ryzen 5 7530U",
+  "gpu": "Integrated",
+  "screen_inch": 15.6,
+  "weight_kg": 1.66,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0072": {
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "processor": "AMD Ryzen 7 7745HX",
+  "gpu": "NVIDIA RTX 4060",
+  "screen_inch": 16.0,
+  "weight_kg": 2.49,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0073": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-12450HX",
+  "gpu": "NVIDIA RTX 3050",
+  "screen_inch": 15.6,
+  "weight_kg": 2.38,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0074": {
+  "ram_gb": 16,
+  "storage_gb": 1024,
+  "processor": "Intel Core i7-13650HX",
+  "gpu": "NVIDIA RTX 4070",
+  "screen_inch": 16.0,
+  "weight_kg": 2.5,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0075": {
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "processor": "Intel Core i3-1215U",
+  "gpu": "Integrated",
+  "screen_inch": 15.6,
+  "weight_kg": 1.7,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0076": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core Ultra 7 155H",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.22,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0077": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "AMD Ryzen 7 7435HS",
+  "gpu": "NVIDIA RTX 4050",
+  "screen_inch": 15.6,
+  "weight_kg": 2.3,
+  "colour": "Blk",
+  "connectivity": "USB-C"
+ },
+ "ZP0078": {
+  "ram_gb": 8,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-1235U",
+  "gpu": "Integrated",
+  "screen_inch": 15.6,
+  "weight_kg": 1.77,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0079": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-13420H",
+  "gpu": "NVIDIA RTX 4050",
+  "screen_inch": 15.6,
+  "weight_kg": 2.1,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0080": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i7-13620H",
+  "gpu": "NVIDIA RTX 4060",
+  "screen_inch": 15.6,
+  "weight_kg": 2.25,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0081": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core Ultra 7 155H",
+  "gpu": "Integrated",
+  "screen_inch": 14.0,
+  "weight_kg": 1.23,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0082": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core Ultra 7 165H",
+  "gpu": "Integrated",
+  "screen_inch": 13.5,
+  "weight_kg": 1.38,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0083": {
+  "ram_gb": 16,
+  "storage_gb": 512,
+  "processor": "Intel Core i5-12450H",
+  "gpu": "Integrated",
+  "screen_inch": 15.6,
+  "weight_kg": 1.8,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0084": {
+  "display_inch": 1.9,
+  "battery_hrs": 18,
+  "gps": true,
+  "amoled": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0085": {
+  "display_inch": 1.78,
+  "battery_hrs": 18,
+  "gps": true,
+  "amoled": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0086": {
+  "display_inch": 1.99,
+  "battery_hrs": 36,
+  "gps": true,
+  "amoled": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0087": {
+  "display_inch": 1.3,
+  "battery_hrs": 40,
+  "gps": true,
+  "amoled": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0088": {
+  "display_inch": 1.3,
+  "battery_hrs": 30,
+  "gps": true,
+  "amoled": true,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0089": {
+  "display_inch": 1.6,
+  "battery_hrs": 312,
+  "gps": false,
+  "amoled": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0090": {
+  "display_inch": 1.85,
+  "battery_hrs": 168,
+  "gps": false,
+  "amoled": true,
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0091": {
+  "display_inch": 1.96,
+  "battery_hrs": 168,
+  "gps": false,
+  "amoled": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0092": {
+  "display_inch": 1.39,
+  "battery_hrs": 168,
+  "gps": false,
+  "amoled": true,
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0093": {
+  "display_inch": 1.96,
+  "battery_hrs": 120,
+  "gps": false,
+  "amoled": true,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0094": {
+  "display_inch": 1.43,
+  "battery_hrs": 336,
+  "gps": true,
+  "amoled": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0095": {
+  "display_inch": 1.91,
+  "battery_hrs": 240,
+  "gps": true,
+  "amoled": false,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0096": {
+  "display_inch": 1.43,
+  "battery_hrs": 100,
+  "gps": true,
+  "amoled": true,
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0097": {
+  "display_inch": 1.2,
+  "battery_hrs": 24,
+  "gps": true,
+  "amoled": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0098": {
+  "display_inch": 1.96,
+  "battery_hrs": 120,
+  "gps": false,
+  "amoled": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0099": {
+  "display_inch": 1.85,
+  "battery_hrs": 168,
+  "gps": false,
+  "amoled": true,
+  "colour": "Gry",
+  "connectivity": "USB-C"
+ },
+ "ZP0100": {
+  "sensor_mp": 24.2,
+  "sensor": "APS-C CMOS",
+  "mount": "Canon RF",
+  "video": "4K30",
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0101": {
+  "sensor_mp": 24.2,
+  "sensor": "Full-frame CMOS",
+  "mount": "Canon RF",
+  "video": "4K60",
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0102": {
+  "sensor_mp": 24.1,
+  "sensor": "APS-C CMOS",
+  "mount": "Canon EF",
+  "video": "1080p30",
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0103": {
+  "sensor_mp": 20.9,
+  "sensor": "APS-C CMOS",
+  "mount": "Nikon Z",
+  "video": "4K30",
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0104": {
+  "sensor_mp": 24.5,
+  "sensor": "Full-frame CMOS",
+  "mount": "Nikon Z",
+  "video": "4K60",
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0105": {
+  "sensor_mp": 24.2,
+  "sensor": "APS-C CMOS",
+  "mount": "Nikon F",
+  "video": "1080p60",
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0106": {
+  "sensor_mp": 26.0,
+  "sensor": "APS-C CMOS",
+  "mount": "Sony E",
+  "video": "4K120",
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0107": {
+  "sensor_mp": 33.0,
+  "sensor": "Full-frame CMOS",
+  "mount": "Sony E",
+  "video": "4K60",
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0108": {
+  "sensor_mp": 24.2,
+  "sensor": "APS-C CMOS",
+  "mount": "Sony E",
+  "video": "4K30",
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0109": {
+  "sensor_mp": 40.2,
+  "sensor": "APS-C X-Trans",
+  "mount": "Fujifilm X",
+  "video": "6K30",
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0110": {
+  "sensor_mp": 26.1,
+  "sensor": "APS-C X-Trans",
+  "mount": "Fujifilm X",
+  "video": "6K30",
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0111": {
+  "sensor_mp": 16.0,
+  "sensor": "Micro Four Thirds",
+  "mount": "Micro Four Thirds",
+  "video": "4K30",
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0112": {
+  "sensor_mp": 27.0,
+  "sensor": "1/1.9 inch CMOS",
+  "mount": "GoPro",
+  "video": "5.3K60",
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0113": {
+  "sensor_mp": 10.0,
+  "sensor": "1/1.3 inch CMOS",
+  "mount": "DJI",
+  "video": "4K120",
+  "colour": "Red",
+  "connectivity": "USB-C"
+ },
+ "ZP0114": {
+  "battery_hrs": 12,
+  "ip_rating": "IP67",
+  "watts": 30,
+  "party_mode": true,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0115": {
+  "battery_hrs": 20,
+  "ip_rating": "IP67",
+  "watts": 40,
+  "party_mode": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0116": {
+  "battery_hrs": 7,
+  "ip_rating": "IP67",
+  "watts": 4.2,
+  "party_mode": false,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0117": {
+  "battery_hrs": 12,
+  "ip_rating": "IPX4",
+  "watts": 160,
+  "party_mode": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0118": {
+  "battery_hrs": 16,
+  "ip_rating": "IP67",
+  "watts": 5,
+  "party_mode": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0119": {
+  "battery_hrs": 25,
+  "ip_rating": "IP67",
+  "watts": 100,
+  "party_mode": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0120": {
+  "battery_hrs": 12,
+  "ip_rating": "IP67",
+  "watts": 30,
+  "party_mode": true,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0121": {
+  "battery_hrs": 12,
+  "ip_rating": "IPX7",
+  "watts": 10,
+  "party_mode": false,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0122": {
+  "battery_hrs": 9,
+  "ip_rating": "IPX5",
+  "watts": 14,
+  "party_mode": false,
+  "colour": "Blk",
+  "connectivity": "USB-C"
+ },
+ "ZP0123": {
+  "battery_hrs": 30,
+  "ip_rating": "IP67",
+  "watts": 20,
+  "party_mode": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0124": {
+  "battery_hrs": 15,
+  "ip_rating": "IP67",
+  "watts": 10,
+  "party_mode": false,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0125": {
+  "battery_hrs": 13,
+  "ip_rating": "IPX7",
+  "watts": 30,
+  "party_mode": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0126": {
+  "battery_hrs": 24,
+  "ip_rating": "IPX7",
+  "watts": 60,
+  "party_mode": true,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0127": {
+  "battery_hrs": 13,
+  "ip_rating": "IP55",
+  "watts": 16,
+  "party_mode": false,
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0128": {
+  "capacity_mah": 24000,
+  "watts": 140,
+  "ports": 3,
+  "passthrough": true,
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0129": {
+  "capacity_mah": 20000,
+  "watts": 20,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0130": {
+  "capacity_mah": 10000,
+  "watts": 30,
+  "ports": 2,
+  "passthrough": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0131": {
+  "capacity_mah": 20000,
+  "watts": 18,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0132": {
+  "capacity_mah": 10000,
+  "watts": 22.5,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0133": {
+  "capacity_mah": 20000,
+  "watts": 22.5,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0134": {
+  "capacity_mah": 10000,
+  "watts": 18,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0135": {
+  "capacity_mah": 20000,
+  "watts": 33,
+  "ports": 2,
+  "passthrough": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0136": {
+  "capacity_mah": 20000,
+  "watts": 22.5,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0137": {
+  "capacity_mah": 10000,
+  "watts": 25,
+  "ports": 2,
+  "passthrough": true,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0138": {
+  "capacity_mah": 10000,
+  "watts": 80,
+  "ports": 2,
+  "passthrough": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0139": {
+  "capacity_mah": 20000,
+  "watts": 22.5,
+  "ports": 3,
+  "passthrough": false,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0140": {
+  "capacity_mah": 20000,
+  "watts": 20,
+  "ports": 2,
+  "passthrough": false,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0141": {
+  "capacity_mah": 20000,
+  "watts": 65,
+  "ports": 3,
+  "passthrough": true,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0142": {
+  "capacity_mah": 10000,
+  "watts": 30,
+  "ports": 2,
+  "passthrough": true,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0143": {
+  "watts": 65,
+  "ports": 2,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0144": {
+  "watts": 45,
+  "ports": 2,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0145": {
+  "watts": 30,
+  "ports": 1,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0146": {
+  "watts": 120,
+  "ports": 3,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0147": {
+  "watts": 20,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0148": {
+  "watts": 35,
+  "ports": 2,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0149": {
+  "watts": 45,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0150": {
+  "watts": 25,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0151": {
+  "watts": 65,
+  "ports": 2,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0152": {
+  "watts": 65,
+  "ports": 2,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0153": {
+  "watts": 67,
+  "ports": 3,
+  "gan": true,
+  "usb_c": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0154": {
+  "watts": 33,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0155": {
+  "watts": 30,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0156": {
+  "watts": 33,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0157": {
+  "watts": 65,
+  "ports": 1,
+  "gan": false,
+  "usb_c": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0158": {
+  "screen_inch": 27,
+  "resolution": "4K UHD",
+  "refresh_hz": 60,
+  "panel": "IPS Black",
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0159": {
+  "screen_inch": 24,
+  "resolution": "Full HD",
+  "refresh_hz": 75,
+  "panel": "IPS",
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0160": {
+  "screen_inch": 27,
+  "resolution": "QHD",
+  "refresh_hz": 165,
+  "panel": "Nano IPS",
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0161": {
+  "screen_inch": 24,
+  "resolution": "Full HD",
+  "refresh_hz": 60,
+  "panel": "IPS",
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0162": {
+  "screen_inch": 32,
+  "resolution": "QHD",
+  "refresh_hz": 165,
+  "panel": "VA",
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0163": {
+  "screen_inch": 32,
+  "resolution": "4K UHD",
+  "refresh_hz": 60,
+  "panel": "VA",
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0164": {
+  "screen_inch": 27,
+  "resolution": "QHD",
+  "refresh_hz": 165,
+  "panel": "IPS",
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0165": {
+  "screen_inch": 27,
+  "resolution": "Full HD",
+  "refresh_hz": 60,
+  "panel": "IPS",
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0166": {
+  "screen_inch": 27,
+  "resolution": "QHD",
+  "refresh_hz": 165,
+  "panel": "IPS",
+  "colour": "Blk",
+  "connectivity": "USB-C"
+ },
+ "ZP0167": {
+  "screen_inch": 27,
+  "resolution": "QHD",
+  "refresh_hz": 75,
+  "panel": "IPS",
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0168": {
+  "screen_inch": 24,
+  "resolution": "Full HD",
+  "refresh_hz": 165,
+  "panel": "IPS",
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0169": {
+  "screen_inch": 27,
+  "resolution": "QHD",
+  "refresh_hz": 165,
+  "panel": "IPS",
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0170": {
+  "screen_inch": 27,
+  "resolution": "Full HD",
+  "refresh_hz": 144,
+  "panel": "IPS",
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0171": {
+  "screen_inch": 24,
+  "resolution": "Full HD",
+  "refresh_hz": 165,
+  "panel": "IPS",
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0172": {
+  "type": "Mouse",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Wht",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0173": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Blu",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0174": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0175": {
+  "type": "Mouse",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0176": {
+  "type": "Mouse",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0177": {
+  "type": "Keyboard",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0178": {
+  "type": "Mouse",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0179": {
+  "type": "Keyboard",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0180": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0181": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0182": {
+  "type": "Keyboard",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Blu",
+  "connectivity": "USB-C"
+ },
+ "ZP0183": {
+  "type": "Mouse",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0184": {
+  "type": "Combo",
+  "wireless": true,
+  "bluetooth": false,
+  "rgb": false,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0185": {
+  "type": "Combo",
+  "wireless": true,
+  "bluetooth": false,
+  "rgb": false,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0186": {
+  "type": "Combo",
+  "wireless": true,
+  "bluetooth": false,
+  "rgb": false,
+  "colour": "Wht",
+  "connectivity": "USB-C"
+ },
+ "ZP0187": {
+  "type": "Keyboard",
+  "wireless": false,
+  "bluetooth": false,
+  "rgb": true,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0188": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Blk",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0189": {
+  "type": "Keyboard",
+  "wireless": true,
+  "bluetooth": true,
+  "rgb": false,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0190": {
+  "type": "Air Conditioner",
+  "capacity": "1.5 Ton",
+  "star_rating": 5,
+  "inverter": true,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0191": {
+  "type": "Washing Machine",
+  "capacity": "8 kg",
+  "star_rating": 5,
+  "inverter": false,
+  "colour": "Blk",
+  "connectivity": "USB-C"
+ },
+ "ZP0192": {
+  "type": "Refrigerator",
+  "capacity": "253 L",
+  "star_rating": 3,
+  "inverter": true,
+  "colour": "Blk",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0193": {
+  "type": "Washing Machine",
+  "capacity": "6.5 kg",
+  "star_rating": 4,
+  "inverter": true,
+  "colour": "Red",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0194": {
+  "type": "Washing Machine",
+  "capacity": "7 kg",
+  "star_rating": 3,
+  "inverter": false,
+  "colour": "Gry",
+  "connectivity": "USB-C"
+ },
+ "ZP0195": {
+  "type": "Air Conditioner",
+  "capacity": "1.5 Ton",
+  "star_rating": 4,
+  "inverter": true,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0196": {
+  "type": "Mixer Grinder",
+  "capacity": "750 W",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Gry",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0197": {
+  "type": "Iron",
+  "capacity": "1000 W",
+  "star_rating": 3,
+  "inverter": false,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0198": {
+  "type": "Air Fryer",
+  "capacity": "4.1 L",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Slv",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0199": {
+  "type": "Vacuum Cleaner",
+  "capacity": "1400 W",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Slv",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0200": {
+  "type": "Ceiling Fan",
+  "capacity": "1200 mm",
+  "star_rating": 5,
+  "inverter": false,
+  "colour": "Gry",
+  "connectivity": "USB-C"
+ },
+ "ZP0201": {
+  "type": "Water Heater",
+  "capacity": "15 L",
+  "star_rating": 5,
+  "inverter": false,
+  "colour": "Slv",
+  "connectivity": "USB-C"
+ },
+ "ZP0202": {
+  "type": "Mixer Grinder",
+  "capacity": "750 W",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0203": {
+  "type": "Washing Machine",
+  "capacity": "7 kg",
+  "star_rating": 5,
+  "inverter": true,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.3"
+ },
+ "ZP0204": {
+  "type": "Air Conditioner",
+  "capacity": "1 Ton",
+  "star_rating": 5,
+  "inverter": true,
+  "colour": "Gry",
+  "connectivity": "Wi-Fi 6"
+ },
+ "ZP0205": {
+  "type": "Refrigerator",
+  "capacity": "190 L",
+  "star_rating": 3,
+  "inverter": false,
+  "colour": "Wht",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0206": {
+  "type": "Vacuum Cleaner",
+  "capacity": "115 AW",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Red",
+  "connectivity": "Bluetooth 5.2"
+ },
+ "ZP0207": {
+  "type": "Vacuum Cleaner",
+  "capacity": "1200 W",
+  "star_rating": 4,
+  "inverter": false,
+  "colour": "Blu",
+  "connectivity": "Wi-Fi 6"
+ }
+}

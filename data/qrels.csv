@@ -1,0 +1,13 @@
+query,intent,relevant
+Sony WH-1000XM4,exact-id,['ZP0001']
+65W USB-C charger,exact-id,"['ZP0143', 'ZP0151', 'ZP0152', 'ZP0157']"
+IP68 earbuds,exact-id,"['ZP0023', 'ZP0026']"
+RTX 4060 laptop,exact-id,"['ZP0069', 'ZP0072', 'ZP0080']"
+headphones that silence aeroplane engine noise,conceptual,"['ZP0001', 'ZP0002', 'ZP0003', 'ZP0004', 'ZP0005', 'ZP0006', 'ZP0007', 'ZP0008', 'ZP0010', 'ZP0011', 'ZP0013']"
+something to keep my phone alive on a long trek,conceptual,"['ZP0128', 'ZP0129', 'ZP0131', 'ZP0133', 'ZP0135', 'ZP0136', 'ZP0139', 'ZP0140', 'ZP0141']"
+a fast machine for editing 4K video,conceptual,"['ZP0064', 'ZP0069', 'ZP0072', 'ZP0073', 'ZP0074', 'ZP0077', 'ZP0079', 'ZP0080']"
+earbuds that will not fall out while running,conceptual,"['ZP0020', 'ZP0023', 'ZP0024', 'ZP0026', 'ZP0027', 'ZP0028', 'ZP0030', 'ZP0031', 'ZP0034']"
+what replaced the Sony WH-1000XM4,relational,"['ZP0002', 'ZP0003']"
+accessories compatible with the Dell XPS 15 9530,relational,"['ZP0143', 'ZP0144', 'ZP0146', 'ZP0149', 'ZP0151', 'ZP0152', 'ZP0153', 'ZP0157', 'ZP0161', 'ZP0163', 'ZP0164', 'ZP0166', 'ZP0175', 'ZP0177', 'ZP0178', 'ZP0181', 'ZP0189']"
+which charger works with a MacBook Air M3 13,relational,"['ZP0143', 'ZP0144', 'ZP0146', 'ZP0149', 'ZP0151', 'ZP0152', 'ZP0153', 'ZP0157']"
+return policy for earbuds,relational,['POL002']
